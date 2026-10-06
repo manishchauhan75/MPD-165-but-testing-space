@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="SBS-OP-123" xml:lang="en-us">
+   <title>Using the SCADA AGV Screen</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2024-02-15"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content" href="SBS-OP-123_using_the_scada_agv_screen_.dita">
+      <topicmeta>
+         <othermeta content="SBS-OP-123" name="DocumentNumber"/>
+         <othermeta content="2024-02-15" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="SBS-OP-123_purposeapplication.dita"/>
+      <topicref href="SBS-OP-123_ppe_required.dita"/>
+      <topicref href="SBS-OP-123_safety_hazards.dita"/>
+      <topicref href="SBS-OP-123_safety_controls.dita"/>
+      <topicref href="SBS-OP-123_equipment_needed.dita"/>
+      <topicref href="SBS-OP-123_comments.dita"/>
+      <topicref href="SBS-OP-123_related_resources.dita"/>
+      <topicref href="SBS-OP-123_monitoring_the_agv.dita"/>
+      <topicref href="SBS-OP-123_upper_area_of_the_status_agv_screen.dita"/>
+      <topicref href="SBS-OP-123_popup_window_for_each_position.dita"/>
+      <topicref href="SBS-OP-123_position_parameters_panel.dita"/>
+      <topicref href="SBS-OP-123_lower_area_of_the_status_agv_screen.dita"/>
+      <topicref href="SBS-OP-123_approval.dita"/>
+      <topicref href="SBS-OP-123_revision_history.dita"/>
+   </topicref>
+</map>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e35">
+   <title>Previous Parts Removal</title>
+   <taskbody><steps>
+         <step><cmd>Stop the machine and open the front door.</cmd></step>
+         <step><cmd>In adjustment key mode position, move the frame up to its top position, then Emergency stop.</cmd></step>
+         <step><cmd>Unlock all external guides and move them back (case 12-24).</cmd></step>
+         <step><cmd>Same operation for spinners (case 12-24).</cmd></step>
+         <step><cmd>Remove the top starwheel.</cmd></step>
+         <step><cmd>Remove the top outfeed guide.</cmd></step>
+         <step><cmd>Remove the internal arm.</cmd></step>
+         <step><cmd>Remove the bottom starwheel.</cmd></step>
+         <step><cmd>Remove the bottom outfeed guide.</cmd></step>
+         <step><cmd>Remove the screw and put the device back (case 12-24).</cmd></step>
+         <step><cmd>Remove the Plug gauges.</cmd></step>
+         <step><cmd>Unlock and move back the Outfeed system.</cmd></step>
+         <step><cmd>Cleaning (machine + probes, sensors, reflectors).</cmd></step>
+         <step><cmd>Perform visual check and remove sliding plates.</cmd></step>
+      </steps></taskbody>
+</task>

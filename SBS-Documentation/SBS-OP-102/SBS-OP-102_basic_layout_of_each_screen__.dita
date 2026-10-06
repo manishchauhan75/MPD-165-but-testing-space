@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e62">
+   <title>Basic Layout of Each Screen  </title>
+   <conbody>
+      <p>The Zippe operating system has two SCADA workstations (based on Windows 10).  One station is in the SBS control room, and the other is in the melter control room.  The screens available through the workstations are used to control and monitor operations, and respond to alarms. </p>
+      <p>As shown below on the main menu, each screen is divided into three sections: Overview Area at the top, Working Area in the middle, and Button Bar at the bottom.</p>
+      <p>
+         <fig>
+            <image href="media/image1.jpg" placement="break" align="center"/>
+         </fig>
+      </p>
+   </conbody>
+</concept>

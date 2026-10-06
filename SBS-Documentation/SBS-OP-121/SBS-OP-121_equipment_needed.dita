@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e45">
+   <title>Equipment Needed</title>
+   <conbody>
+      <ul>
+         <li>Access to the SCADA SBS operating system.</li>
+         <li>Fire extinguisher in the cage.</li>
+      </ul>
+   </conbody>
+</concept>

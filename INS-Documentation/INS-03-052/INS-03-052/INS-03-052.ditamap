@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="INS-03-052" xml:lang="en-us">
+   <title>Device Setup - Sidewall - MCAL 4</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2017-01-23"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content" href="INS-03-052_device_setup_-_sidewall_-_mcal_4.dita">
+      <topicmeta>
+         <othermeta content="INS-03-052" name="DocumentNumber"/>
+         <othermeta content="2017-01-23" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="INS-03-052_purpose_and_application.dita"/>
+      <topicref href="INS-03-052_safety.dita"/>
+      <topicref href="INS-03-052_instructions.dita"/>
+      <topicref href="INS-03-052_required_training.dita"/>
+      <topicref href="INS-03-052_approval.dita"/>
+      <topicref href="INS-03-052_revision_history.dita"/>
+   </topicref>
+</map>

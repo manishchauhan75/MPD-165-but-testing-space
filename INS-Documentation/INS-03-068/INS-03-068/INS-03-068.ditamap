@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="INS-03-068" xml:lang="en-us">
+   <title>Bottom Setup - LNMC (Alpha Numeric Reader) for MultiStation 4</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2017-07-21"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content"
+             href="INS-03-068_bottom_setup_-_lnmc_alpha_numeric_reader_for_multistation_4.dita">
+      <topicmeta>
+         <othermeta content="INS-03-068" name="DocumentNumber"/>
+         <othermeta content=" 2017-07-21" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="INS-03-068_purpose_and_application.dita"/>
+      <topicref href="INS-03-068_safety.dita"/>
+      <topicref href="INS-03-068_instructions.dita"/>
+      <topicref href="INS-03-068_required_training.dita"/>
+      <topicref href="INS-03-068_approval.dita"/>
+      <topicref href="INS-03-068_revision_history.dita"/>
+   </topicref>
+</map>

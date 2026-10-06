@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e63">
+   <title>Related Resources</title>
+   <conbody>
+      <ul>
+         <li><xref href="SBS-OP-138A.ditamap#SBS-OP-138A" format="ditamap">SBS-OP-138A</xref>
+            Overview of the Belt Conveyor</li>
+         <li>SBS-ET-138 Troubleshooting the Belt Conveyor </li>
+         <li>SBS-MR-138 Belt Conveyor Maintenance</li>
+         <li>Vendor manual in the Resources library</li>
+      </ul>
+   </conbody>
+</concept>

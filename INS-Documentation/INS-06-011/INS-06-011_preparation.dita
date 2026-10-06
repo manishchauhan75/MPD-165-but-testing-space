@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e8">
+   <title>Preparation</title>
+   <conbody>
+      <ul>
+         <li>New article data: article dimensions for machine jobfile and job change type. Check:
+            12-12/ 12-24/ 24-12/ 24-24 pockets. (Anticipation for the top inspections position
+            depending on previous reference: if you must, move PLUG/DIP devices + change sliding
+            plates depending on installed options ATLAS/NCG/NCL/Bottom Checks/HCI/BTM.)</li>
+         <li>Tooling preparation: <i>standard: </i>screws, starwheels, outfeed guides, plug gauges,
+            sliding plates. <i>Jars, non-round:</i> Dip head, spinner wheels and rings, brush
+            guiding, outfeed brush, article presence device, other specific tools: example: flask
+            kit. For Jars bigger than TO82: JAR Plug device installation required + Plug wedge
+            modification on software.</li>
+         <li>Optional non round spinner to set on all motor by moving the belt position + software
+            modification in case of neck spinning to remind.</li>
+         <li>If possible, prepare the outfeed guides and starwheel on their support beforehand.</li>
+         <li>Have samples available and some good bottles.<p>Recommendations:</p><ul
+               id="ul_lzc_qtb_bdc">
+               <li>On one good bottle, put a mark on the position of the thickness position of
+                  inspection. Aim: to avoid breaking the samples during the setup.</li>
+               <li>If possible, having a measured bottle for OVAL, thickness and NCG (ring
+                  dimensions) helps to set the inspections faster.</li>
+            </ul></li>
+         <li>Machine speed required.</li>
+         <li>Toolbox, with some guides and all kinds of screws like revered step screw for spinners,
+            spinner roller…in case of maintenance to perform quickly, and cleaning. A list of tools
+            recommended by Tiama is available in a separate document.</li>
+      </ul>
+   </conbody>
+</concept>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="SBS-OP-121" xml:lang="en-us">
+   <title>Operating the AGV</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2024-02-13"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content" href="SBS-OP-121_operating_the_agv.dita">
+      <topicmeta>
+         <othermeta content="SBS-OP-121" name="DocumentNumber"/>
+         <othermeta content="2024-02-13" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="SBS-OP-121_purposeapplication.dita"/>
+      <topicref href="SBS-OP-121_ppe_required.dita"/>
+      <topicref href="SBS-OP-121_safety_hazards.dita"/>
+      <topicref href="SBS-OP-121_respirable_crystalline_silica.dita"/>
+      <topicref href="SBS-OP-121_safety_controls.dita"/>
+      <topicref href="SBS-OP-121_equipment_needed.dita"/>
+      <topicref href="SBS-OP-121_comments.dita"/>
+      <topicref href="SBS-OP-121_related_resources.dita"/>
+      <topicref href="SBS-OP-121_safety_around_the_agv.dita"/>
+      <topicref href="SBS-OP-121_navigating_the_operating_screens.dita"/>
+      <topicref href="SBS-OP-121_description_of_the_operating_screens.dita"/>
+      <topicref href="SBS-OP-121_approval.dita"/>
+      <topicref href="SBS-OP-121_revision_history.dita"/>
+   </topicref>
+</map>

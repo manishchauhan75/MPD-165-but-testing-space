@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e216">
+   <title>Description of the Operating Screens</title>
+   <taskbody><steps>
+         <step>
+            <cmd>Click the <uicontrol>Manual </uicontrol>button on the bottom of the screen to
+               display the Manual Operation menu.</cmd>
+            <info>
+               <ul>
+                  <li>The Safety Override bar turns green when the controller is in use.   </li>
+               </ul>
+               <note type="note">
+                  <p>AP means anti-parallel mode. Diff means differential (free movement).</p>
+               </note>
+               <p>
+                  <fig>
+                     <image href="media/image5.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+               <p>
+                  <fig>
+                     <image href="media/image6.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+            </info>
+         </step>
+         <step>
+            <cmd>Click the <uicontrol>Carriage</uicontrol> button on the bottom of the screen to
+               display the <b>Carriage</b> menu, which shows details about the carriage itself, but
+               not the battery.</cmd>
+            <info>
+               <ul>
+                  <li>The System Status on the upper left shows the status of the CVC controller,
+                     SICK controller, CAN bus, and WLAN.</li>
+                  <li>There are also details about the AGV position and whether the AGV is
+                     stopped.</li>
+                  <li>In the upper center of the screen, the driver status for travel and lift are
+                     displayed. </li>
+               </ul>
+               <p>
+                  <fig>
+                     <image href="media/image7.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+            </info>
+         </step>
+         <step>
+            <cmd>Click the <uicontrol>Battery </uicontrol>button on the bottom of the screen to
+               display the main <b>Battery</b> menu, which shows the charge level and the status of
+               the battery.</cmd>
+            <info>
+               <ul>
+                  <li>Click the upper right arrow on the right side of the screen to display the
+                     Battery Status menu, shown to the right.</li>
+                  <li>Click the lower right arrow to display the Charger Status General menu.</li>
+                  <li>Click the left arrow to return to the main Battery menu.  </li>
+               </ul>
+               <p>
+                  <fig>
+                     <image href="media/image8.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+               <p>
+                  <fig>
+                     <image href="media/image9.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+            </info>
+         </step>
+         <step><cmd>There are three <b>Charger Status</b> screens.  Navigate between these screens using the gray arrow next to the buttons.</cmd><info><ul>
+               <li>The <b>General</b> screen displays general charging information.</li>
+               <li>The <b>Error/Warnings</b> screen displays the status of any warnings.</li>
+               <li>The <b>Electronics</b> screen provides additional data.</li>
+               <li>Click the left arrow to return to the main <b>Battery</b> menu.   </li>
+            </ul>
+               <p>
+                  <fig>
+                     <image href="media/image10.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+               <p>
+                  <fig>
+                     <image href="media/image11.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+               <p>
+                  <fig>
+                     <image href="media/image12.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step><cmd>There are five <b>Information Details</b> screens. Navigate between these screens using the gray arrows next to the buttons.</cmd><info><ul>
+               <li>The first three screens provide various operational data. See the three screens
+                     on the right.   </li>
+            </ul>
+               <p>
+                  <fig>
+                     <image href="media/image13.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+               <p>
+                  <fig>
+                     <image href="media/image14.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+               <p>
+                  <fig>
+                     <image href="media/image15.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step><cmd>The fourth Details screen provides information about the four laser scanners/sensors.</cmd>
+            <info>
+               <p>
+                  <fig>
+                     <image href="media/image16.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+            </info></step>
+         <step><cmd>The fifth Details screen provides E-Stop information.</cmd><info>
+               <p>
+                  <fig>
+                     <image href="media/image17.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step>
+            <cmd>Click the<uicontrol> Maintenance</uicontrol> button on the bottom of the screen to
+               display the Main <b>Maintenance</b> screen.</cmd>
+            <info>
+               <ul>
+                  <li>Navigate between the two screens using the gray arrows next to the
+                     buttons.</li>
+                  <li>The <b>Drives Control</b> screen provides the following information:<p>1 =
+                        Sets the lift position to zero</p>
+                     <p>2 = Lifts and lowers the lift without limits</p>
+                     <p>3 = Sets the steer angle to zero</p>
+                     <p>4 = Graphical and numerical lift position</p>
+                  </li>
+               </ul>
+               <p>
+                  <fig>
+                     <image href="media/image18.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+               <p>
+                  <fig>
+                     <image href="media/image19.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+            </info>
+         </step>
+         <step><cmd>An oil change must be performed on the lifting spindle drives after 500 operating hours.</cmd><info><ul>
+               <li>If this value is exceeded, an oil symbol will appear in the top section of every
+                     menu/screen. </li>
+            </ul>
+               <p>
+                  <fig>
+                     <image href="media/image20.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step><cmd>Pop-up windows are displayed as an additional safety query to allow the lift, steering angles, or operating hours counter of the lift to be set to 0.</cmd>
+            <info>
+               <p>
+                  <fig>
+                     <image href="media/image21.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+            </info></step>
+         <step>
+            <cmd>Click the <uicontrol>User</uicontrol> button on the bottom of the screen to display
+               the Main <b>User</b> screen, where users and administrators can log in and out, and
+               set the language and units.</cmd>
+            <info>
+               <note type="note">
+                  <p>Parameters can only be changed with the highest user level. Settings in the
+                     system area of the control panel are reserved for HEGLA service technicians or
+                     specially trained and instructed specialist personnel. </p>
+               </note>
+               <p>(See also the screen on the next page.)</p>
+               <p>
+                  <fig>
+                     <image href="media/image22.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+               <p>
+                  <fig>
+                     <image href="media/image23.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+               <p>
+                  <fig>
+                     <image href="media/image24.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+            </info>
+         </step>
+      </steps></taskbody>
+</task>

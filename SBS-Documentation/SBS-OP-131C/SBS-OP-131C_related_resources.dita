@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e74">
+   <title>Related Resources</title>
+   <conbody>
+      <ul>
+         <li>SBS-ET-031 Troubleshooting the Pan Mixer</li>
+         <li>SBS-MR-031 Pan Mixer Maintenance</li>
+         <li>SBS-OP-031A Pan Mixer Cycles and Operating Values</li>
+         <li>SBS-OP-031B Setting the Mixer Parameters Using the Formula Screen</li>
+         <li>Vendor manual in the Resources library</li>
+      </ul>
+   </conbody>
+</concept>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e87">
+   <title>Setting the Mixer Parameters Using the Formula Screen</title>
+   <taskbody><steps>
+         <step><cmd>
+            </cmd><info><note type="note">
+               <p>The mixer parameters are on the SBS workstation, at the bottom of the Formula
+                     screen.</p>
+            </note>
+            <p>The nominal value (amount) of water to add can be set in liters if using a
+                  water-counter, or in seconds if the dosing is measured in time.</p>
+            <ul>
+               <li>The “Fine-Stop” value specifies that the water valves will close this many liters
+                     before the nominal value is reached.</li>
+                  <li>The operator can switch between two modes for adding water: dosing in Liters
+                     and dosing in Seconds.</li>
+                  <li>There are two Tolerance values:<ul>
+                        <li>If the actual water value is higher than the “nominal value” plus the
+                           “Tolerance+” value, an alarm will be generated.</li>
+                        <li>If the actual water value is lower than the “nominal value” minus the
+                           “Tolerance-” value, there is no alarm. Instead, water will continue to be
+                           added until the nominal value is higher than set point minus
+                           “Tolerance-”.</li>
+                     </ul>
+                  </li>
+            </ul>
+               <p>
+                  <fig>
+                     <image href="media/image2.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step><cmd>Three mixing times can be set.</cmd><info><ul>
+               <li>Time in seconds for dry mixing. The dry mixing time begins when all of the batch
+                     material is received in the mixer.</li>
+                  <li>Time in seconds for wet mixing. The wet mixing time begins when water dosing
+                     is finished.</li>
+                  <li>Time is seconds for the mixer discharge slide stays open for discharging. </li>
+            </ul>
+               <p>
+                  <fig>
+                     <image href="media/image3.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+      </steps></taskbody>
+</task>

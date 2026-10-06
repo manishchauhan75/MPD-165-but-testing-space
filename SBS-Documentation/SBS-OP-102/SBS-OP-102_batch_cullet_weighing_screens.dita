@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e415">
+   <title>Batch Cullet Weighing Screens</title>
+   <conbody>
+      <p>Click the Batch Cullet Weighing tab at the top of the screen to display the main Batch Cullet Weighing screen, shown below.  </p>
+      <p>Click the down arrow button to display the popup window to navigate to the following operation screens, which are shown on the following pages:</p>
+      <ul>
+         <li>Status – provides an overview regarding the current weighing cycle of the scales</li>
+         <li>Formula - clicking the button opens a Formula screen where the cullet ratio is entered</li>
+         <li>Consumption – the production data for today and the previous 14 days are displayed</li>
+         <li>Timer - used to adjust scale and plant timers for the Integration system equipment</li>
+         <li>Preselection – used to select the active formula </li>
+      </ul>
+      <note type="note" id="note_pkn_l2g_vcc">
+         <p>The Integration system screen also allows these operations, as well as others. For
+            details, refer to SBS-OP-006 Operating the Integration System.</p>
+      </note>
+      <p>
+         <fig>
+            <title>Main Screen and Popup Window for the Batch Cullet Weighing Operation</title>
+            <image href="media/image57.jpg" placement="break" align="center"/>
+         </fig>
+      </p>
+      <p>
+         <fig>
+            <image href="media/image58.jpg" placement="break" align="center"/>
+         </fig>
+      </p>
+      <p>
+         <fig>
+            <image href="media/image59.jpg" placement="break" align="center"/>
+         </fig>
+      </p>
+      <p>
+         <fig>
+            <image href="media/image60.jpg" placement="break" align="center"/>
+         </fig>
+      </p>
+      <p>
+         <fig>
+            <image href="media/image61.jpg" placement="break" align="center"/>
+         </fig>
+      </p>
+      <p>
+         <fig>
+            <image href="media/image62.jpg" placement="break" align="center"/>
+         </fig>
+      </p>
+      <p>
+         <fig/>
+      </p>
+   </conbody>
+</concept>

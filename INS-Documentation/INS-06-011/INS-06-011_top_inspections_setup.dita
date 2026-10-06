@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e112">
+   <title>Top Inspections Setup</title>
+   <taskbody><steps>
+         <step><cmd>Adjust the PLUG and DIP position.</cmd></step>
+         <step><cmd>ATLAS setting and virtual sample test.</cmd></step>
+         <step><cmd>FTA setting and sample test.</cmd></step>
+         <step><cmd>NCL setting.</cmd></step>
+         <step><cmd>NCI/HCI setting.</cmd></step>
+         <step><cmd>Checks adjustment with sample.</cmd></step>
+         <step><cmd>NCG adjustment with sample calibration.</cmd></step>
+         <step><cmd>Set the outfeed re-synchro cell distance.</cmd></step>
+      </steps></taskbody>
+</task>

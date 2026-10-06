@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e335">
+   <title>Silo Feeding Screens</title>
+   <conbody>
+      <ul>
+         <li>Click the Silo Feeding tab at the top of the screen to display the main Silo Feeding screen, shown below.</li>
+         <li>Click the down arrow button to display the popup window to navigate to the other two
+            operation screens—for the majors silos 1-8, and for the minors silos 12-18. These
+            screens are shown on the following page.</li>
+      </ul>
+      <p>
+         <fig>
+            <title>Main Screen and Popup Window for the Silo Loading Operation</title>
+            <image href="media/image42.jpg" placement="break" id="image_lns_vcc_wcc" align="center"
+            />
+         </fig>
+      </p>
+      <p>
+         <fig>
+            <image href="media/image43.jpg" placement="break" align="center"/>
+         </fig>
+      </p>
+      <p>
+         <fig>
+            <image href="media/image44.jpg" placement="break" align="center"/>
+         </fig>
+      </p>
+   </conbody>
+</concept>

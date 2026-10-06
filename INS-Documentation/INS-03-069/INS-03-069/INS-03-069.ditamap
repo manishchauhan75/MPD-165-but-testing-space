@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="INS-03-069" xml:lang="en-us">
+   <title>Device Setup - Tiama - MCF for MultiStation 4</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2017-01-23"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content"
+             href="INS-03-069_device_setup_-_tiama_-_mcf_for_multistation_4.dita">
+      <topicmeta>
+         <othermeta content="INS-03-069" name="DocumentNumber"/>
+         <othermeta content="2017-01-23" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="INS-03-069_purpose_and_application.dita"/>
+      <topicref href="INS-03-069_safety.dita"/>
+      <topicref href="INS-03-069_instructions.dita"/>
+      <topicref href="INS-03-069_required_training.dita"/>
+      <topicref href="INS-03-069_approval.dita"/>
+      <topicref href="INS-03-069_revision_history.dita"/>
+   </topicref>
+</map>

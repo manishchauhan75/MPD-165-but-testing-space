@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e8">
+   <title>Purpose and Application</title>
+   <conbody>
+    <section id="section_bhj_2kf_xcc">
+      <title>Purpose</title>
+      <p>To define a work instruction for proper setup of the LNMC device on the MultiStation 4 for
+        alphanumeric codes located in the center of the container.</p>
+    </section>
+    <section id="section_mlv_2kf_xcc">
+      <title>Application</title>
+      <p>This work instruction applies to all O-I manufacturing facilities.</p>
+    </section>
+  </conbody>
+</concept>

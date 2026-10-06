@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e64">
+   <title>Upper Area of the Status AGV Screen</title>
+   <conbody>
+      <p>In the upper area of the screen is a top-view of the AGV fenced area, and the current position of the AGV (under one of the 10 silos, at the Lifting Station, or parked).  This makes it possible to know the exact location of the AGV as it moves.</p>
+      <ul>
+         <li>Each position shows the amount of time the AGV stood there for the last cycle.<image
+               href="media/image2.jpg" placement="break" align="center"/>
+         </li>
+         <li>The current AGV position is shown in blue.<image href="media/image3.jpg"
+               placement="break" align="center"/>
+         </li>
+         <li>Green means a position is blocked by a scale/weighing frame, but the AGV can pass
+               <image href="media/image4.jpg" placement="break" align="center"/> under it.</li>
+         <li>A red X means that a parking position is blocked.<image href="media/image5.jpg"
+               placement="break" align="center"/>
+         </li>
+      </ul>
+   </conbody>
+</concept>

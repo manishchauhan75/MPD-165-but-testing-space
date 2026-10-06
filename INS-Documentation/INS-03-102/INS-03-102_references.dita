@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e604">
+   <title>References</title>
+   <conbody>
+      <p>INS-06-001 FTA Head Verification &amp; Maintenance</p>
+      <p>INS-07-030 Minimum Inspection Channels for O-I Equipment</p>
+      <p>INS-07-031 Inspection Device Setup Parameters for O-I Equipment</p>
+      <section>
+         <title>Document Classification </title>
+         <ul>
+            <li>Efficiency and Throughput</li>
+            <li>Quality</li>
+         </ul>
+      </section>
+      <section>
+         <title>Fundamentals</title>
+         <ul>
+            <li>INS-305</li>
+         </ul>
+      </section>
+   </conbody>
+</concept>

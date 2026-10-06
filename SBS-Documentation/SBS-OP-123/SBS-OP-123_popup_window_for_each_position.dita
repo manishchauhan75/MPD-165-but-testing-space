@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e89">
+   <title>Popup Window for Each Position</title>
+   <conbody>
+      <p>Press on a position to display a popup window that provides additional position information.</p>
+      <p>
+         <fig id="fig_c11_vxg_vcc">
+            <image href="media/image6.jpg" placement="break" id="image_d11_vxg_vcc" align="center"/>
+         </fig>
+      </p>
+      <table>
+         <tgroup cols="2">
+            <colspec colname="c1" colwidth="27.2%"/>
+            <colspec colname="c2" colwidth="63.42%"/>
+            <thead>
+               <row>
+                  <entry>
+                     <p>Position Status – Color shown on the popup</p>
+                  </entry>
+                  <entry>
+                     <p>Description (Note that these colors do not match the colors used for the AGV
+                        screen itself)</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>
+                     <p>
+                        <fig>
+                           <image href="media/image7.jpg" id="image_nc4_hyg_vcc" placement="break"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p>The position is free and the AGV (with a scale container) can move to this position.</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p>
+                        <fig>
+                           <image href="media/image8.jpg" id="image_qyj_hyg_vcc" placement="break"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p>The position is blocked by the operator. The AGV (with a scale container) cannot go to this position.</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p>
+                        <fig>
+                           <image href="media/image9.jpg" id="image_ygh_hyg_vcc" placement="break"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p>The docking station for this position is not in the upper position, and  the AGV (with a scale container) cannot pass this position.</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p>
+                        <fig>
+                           <image href="media/image10.jpg" id="image_nk2_hyg_vcc" placement="break"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p>This position is blocked for the AGV, and the AGV cannot go to this position.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p>The three buttons at the top of the popup are explained below.</p>
+      <table>
+         <tgroup cols="2">
+            <colspec colname="c1" colwidth="8.1%"/>
+            <colspec colname="c2" colwidth="72.9%"/>
+            <thead>
+               <row>
+                  <entry>
+                     <p>Button</p>
+                  </entry>
+                  <entry>
+                     <p>Function</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>
+                     <p>
+                        <fig>
+                           <image href="media/image11.jpg" id="image_zzy_gyg_vcc" placement="break"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p>The standard popup window is shown, without the parameters panel.</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p>
+                        <fig>
+                           <image href="media/image12.jpg" id="image_kft_gyg_vcc" placement="break"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p>The position parameters panel is displayed.  (See details below.)</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p>
+                        <fig>
+                           <image href="media/image13.jpg" id="image_gwk_gyg_vcc" placement="break"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p>Alarms and messages for this position can be viewed.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </conbody>
+</concept>

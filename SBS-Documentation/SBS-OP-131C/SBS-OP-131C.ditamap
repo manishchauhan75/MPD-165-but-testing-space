@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="SBS-OP-131C" xml:lang="en-us">
+   <title>Pan Mixer - Manual Mode Using the Touch Screen Near the Mixer</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2024-01-23"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content"
+             href="SBS-OP-131C_pan_mixer_-_manual_mode_using_the_touch_screen_near_the_mixer.dita">
+      <topicmeta>
+         <othermeta content="SBS-OP-131C" name="DocumentNumber"/>
+         <othermeta content="2024-01-23" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="SBS-OP-131C_purposeapplication.dita"/>
+      <topicref href="SBS-OP-131C_ppe_required.dita"/>
+      <topicref href="SBS-OP-131C_safety_hazards.dita"/>
+      <topicref href="SBS-OP-131C_respirable_crystalline_silica.dita"/>
+      <topicref href="SBS-OP-131C_safety_controls.dita"/>
+      <topicref href="SBS-OP-131C_equipment_needed.dita"/>
+      <topicref href="SBS-OP-131C_comments.dita"/>
+      <topicref href="SBS-OP-131C_related_resources.dita"/>
+      <topicref href="SBS-OP-131C_manual_mode_using_the_touch_screen_near_the_mixer.dita"/>
+      <topicref href="SBS-OP-131C_approval.dita"/>
+      <topicref href="SBS-OP-131C_revision_history.dita"/>
+   </topicref>
+</map>

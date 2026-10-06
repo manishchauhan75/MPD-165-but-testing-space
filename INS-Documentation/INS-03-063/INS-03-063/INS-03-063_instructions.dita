@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e25">
+   <title>Instructions</title>
+   <taskbody><steps>
+         <step><cmd>Before starting the work instruction activity, perform the following steps:</cmd>
+            <substeps id="substeps_m1l_4zv_wcc">
+               <substep>
+                  <cmd>Do not begin these tasks without confirmation that personnel directly
+                     involved have completed the required training associated with the work
+                     instruction activity and have reviewed this document.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Gather necessary tools and equipment as identified below in the Equipment
+                     Section.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Wear and use additional Personal Protective Equipment (PPE) and safety
+                     equipment required for this specific work instruction.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Obey all applicable safety requirements and procedures.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>Prerequisite</cmd>
+            <substeps id="substeps_dfc_qzv_wcc">
+               <substep>
+                  <cmd>Prior to this work instruction, ensure container handling was properly set up
+                     according to INS-03-012 Container Handling – Tiama – MCAL 4.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Prepare a setup sample with best possible diameter and height of the new
+                     job.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>For proper setup, perform the following steps:</cmd>
+            <substeps id="substeps_uwk_rzv_wcc">
+               <substep>
+                  <cmd>The HMI screen of the MCAL 4 is located on the front right door of the
+                     machine.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_xsm_szv_wcc">
+                           <image href="media/image1.jpg" placement="break" id="image_vmc_tzv_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Stop the flow of containers into the machine using whatever container spacing
+                     device is installed prior to the machine.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_mh5_szv_wcc">
+                           <image href="media/image2.jpg" placement="break" id="image_np3_tzv_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step><cmd>For proper setup, perform the following steps:</cmd>
+            <substeps id="substeps_yr5_vzv_wcc">
+               <substep>
+                  <cmd>Open DimPix from the Detections menu.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_av5_c1w_wcc">
+                           <image href="media/image3.jpg" placement="break" id="image_ddx_t1w_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Open the measurements window from the adjustments menu.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_ltj_21w_wcc">
+                           <image href="media/image4.jpg" placement="break" id="image_oh2_v1w_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Select the <uicontrol>drawing</uicontrol> icon.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_lxg_f1w_wcc">
+                           <image href="media/image5.jpg" placement="break" id="image_ohs_w1w_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>On the image, move the black reference line down to the top of the
+                     container.</cmd>
+                  <info>
+                     <ol id="ol_zqp_g1w_wcc">
+                        <li>Review the six body camera images.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_ovk_h1w_wcc">
+                           <image href="media/image6.jpg" placement="break" id="image_a3d_y1w_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Drag the finish "band" line just below the finish.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_bd3_31w_wcc">
+                           <image href="media/image7.jpg" placement="break" id="image_a1r_z1w_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Drag the shoulder band line to the upper contact area.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_xyp_j1w_wcc">
+                           <image href="media/image8.jpg" placement="break" id="image_mbw_1bw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> Drag the bottom band line to the lower contact area.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_lmj_pbw_wcc">
+                           <p>
+                              <fig id="fig_bfl_pbw_wcc">
+                                 <image href="media/image9.jpg" placement="break" align="center"
+                                    id="image_cfl_pbw_wcc"/>
+                              </fig>
+                           </p>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> Select additional location bands and drag the corresponding line to the
+                     appropriate area as needed.</cmd>
+                  <info>
+                     <ol id="ol_c2t_l1w_wcc">
+                        <li>Typically for narrow neck, a line is located at each contact point and
+                           an additional measurement in the neck area.</li>
+                        <li>Typically for wide mouth, an additional line is located at the
+                           finish.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_mrf_rbw_wcc">
+                           <image href="media/image10.jpg" placement="break" id="image_cym_dbw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>copy</uicontrol> icon to copy the diameters to all
+                     cameras.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_mb3_41w_wcc">
+                           <image href="media/image11.jpg" placement="break" id="image_w1l_fbw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Select each camera image and verify the diameter information has copied over.
+                     Adjust as necessary.</cmd>
+               </substep>
+               <substep>
+                  <cmd> Select the type to specify how the measurement will be taken within the
+                     band. </cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_d3k_q1w_wcc">
+                           <image href="media/image12.jpg" placement="break" id="image_zpn_gbw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>For Flint type, adjust thickness to 10-15.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_j35_r1w_wcc">
+                           <image href="media/image13.jpg" placement="break" id="image_dwz_hbw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Enter Diameter for each band point from the container drawing in the Expected
+                     column.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_bpr_s1w_wcc">
+                           <image href="media/image14.jpg" placement="break" id="image_msw_5bw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step><cmd>To adjust the height, perform the following steps:</cmd>
+            <substeps id="substeps_hvy_s3w_wcc">
+               <substep>
+                  <cmd>Enter settings for sensitivity, thickness, and expected similar to diameter
+                     setup.</cmd>
+                  <info>
+                     <ol id="ol_k1h_53w_wcc">
+                        <li>Enter the exact height measurement from the container drawing.</li>
+                        <li>The Type does not include Flint as an option.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_d2n_y3w_wcc">
+                           <image href="media/image15.jpg" placement="break" id="image_c52_qjw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Select which area of the container to be measured.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_izr_1jw_wcc">
+                           <image href="media/image16.jpg" placement="break" id="image_adh_rjw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Any line that has been moved will turn purple. If any line is purple, you
+                     must click <uicontrol>Learn</uicontrol> to confirm the new location.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_bkt_djw_wcc">
+                           <image href="media/image17.jpg" placement="break" id="image_mkp_sjw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Review all camera views and repeat previous step for any purple lines.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_isw_ljw_wcc">
+                           <image href="media/image18.jpg" placement="break" id="image_sd3_5jw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Turn off drawing mode by pressing the drawing icon.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_asl_njw_wcc">
+                           <image href="media/image19.jpg" placement="break" id="image_r1p_vjw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Review measurements in Tolerance and Measure column.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_nwt_4jw_wcc">
+                           <image href="media/image20.jpg" placement="break" id="image_zdh_zjw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step><cmd>To adjust the verticality, perform the following steps:</cmd>
+            <substeps id="substeps_mfl_3kw_wcc">
+               <substep>
+                  <cmd>Select the <uicontrol>drawing</uicontrol> tool.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_qy5_kkw_wcc">
+                           <image href="media/image21.jpg" placement="break" id="image_bwl_clw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Select the container <uicontrol>verticality</uicontrol>.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_b1x_lkw_wcc">
+                           <image href="media/image22.jpg" placement="break" id="image_uxb_2lw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> The container verticality: the difference between the perfect vertical axis,
+                     and the measured axis between the center of "bottom" gauge diameter and the
+                     center of "finish" gauge diameter.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_iw3_qkw_wcc">
+                           <image href="media/image23.jpg" placement="break" id="image_bkp_flw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Select the <uicontrol>Body</uicontrol> verticality.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_vzy_rkw_wcc">
+                           <image href="media/image24.jpg" placement="break" id="image_pfq_glw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> The body verticality: the difference between the perfect vertical axis, and
+                     the measured axis between the center of "bottom" gauge diameter and the center
+                     of "shoulder" gauge diameter.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_nrp_tkw_wcc">
+                           <image href="media/image25.jpg" placement="break" id="image_h4x_hlw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Select the <uicontrol>Neck</uicontrol> verticality.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_qqc_vkw_wcc">
+                           <image href="media/image26.jpg" placement="break" id="image_wx3_jlw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>The neck verticality: the difference between the neck axe (should-finish) and
+                     the body axe (bottom-Shoulder).</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_lf4_wkw_wcc">
+                           <image href="media/image27.jpg" placement="break" id="image_gtl_klw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> Turn off drawing mode by pressing the drawing icon.</cmd>
+                  <info>
+                     <ol id="ol_ubt_xkw_wcc">
+                        <li>If the Verticality is within tolerance the number in the Measure column
+                           will be green.</li>
+                        <li>If the Verticality is out of tolerance the number in the Measure column
+                           will be red.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_uhz_ykw_wcc">
+                           <image href="media/image28.jpg" placement="break" id="image_ujs_llw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step>
+            <cmd>To adjust the threshold parameters, perform the following steps:</cmd>
+            <substeps id="substeps_vyh_cmw_wcc">
+               <substep>
+                  <cmd>Choose the specific zone parameters according to MSDR INS-07-033 Inspection
+                     Device Setup Parameters for Tiama Equipment.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Verify parameters and gauges have been copied to all cameras and adjust
+                     gauges if necessary.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>green check</uicontrol> to return to the main
+                     menu.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Put the machine into operation mode.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Pass a challenge sample through the machine and verify results.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Adjust parameters as necessary and repeat the previous step until proper
+                     rejection.</cmd>
+                  <info>
+                     <ol id="ol_ugw_hmw_wcc">
+                        <li>If the Measurement is within tolerance for Height or Diameter, the
+                           corresponding lines will show up green on the image and the number will
+                           show up green in the Measure Column.</li>
+                     </ol>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>If the Measurement is outside of the tolerance for Height or Diameter, the
+                     corresponding lines will show up red on the image and the number will show up
+                     red in the Measure Column.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_efr_lmw_wcc">
+                           <image href="media/image29.jpg" placement="break" id="image_q25_ymw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Repeat steps for each gauge.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Ensure all challenge samples are rejected.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Pass 500 containers through the machine to learn the average.</cmd>
+                  <info>
+                     <ol id="ol_bc2_pmw_wcc">
+                        <li> If differences are seen with actual production, the machine
+                           automatically will adapt to these settings.</li>
+                     </ol>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>A container image will appear in the top left of the screen and will
+                     disappear at the end of the calibration process.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_nyb_tmw_wcc">
+                           <image href="media/image30.jpg" placement="break" id="image_hlq_vmw_wcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Pass a challenge sample through the machine. </cmd>
+               </substep>
+               <substep>
+                  <cmd>Verify challenge sample is rejected and good container is not rejected.</cmd>
+               </substep>
+            </substeps>
+         </step>
+         <step><cmd>Upon completion of tasks, perform the following steps:</cmd>
+            <substeps id="substeps_xbk_bnw_wcc">
+               <substep>
+                  <cmd>Perform basic housekeeping duties. Clean up the work space, tools and
+                     equipment, dispose of trash, put tools and equipment in assigned area.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Notify appropriate personnel that the work instruction activity has been
+                     completed.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Record and report findings and results.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Follow appropriate instructions for notification of findings and results
+                     relating to specifications, targets and/or reaction limits.</cmd>
+               </substep>
+            </substeps></step>
+      </steps></taskbody>
+</task>

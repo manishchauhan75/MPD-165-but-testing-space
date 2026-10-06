@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="related_resources">
+    <title>Related Resources</title>
+    <conbody>
+        <ul id="ul_xy5_j21_ycc">
+            <li>SBS-ET-036 Troubleshooting the Metering Conveyor Scale</li>
+            <li>SBS-MR-036 Metering Conveyor Scale Maintenance</li>
+            <li>Vendor manual in the Resources library</li>
+        </ul>
+    </conbody>
+</concept>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e77">
+   <title>Drive Station</title>
+   <conbody>
+      <p>The drive station causes the conveyor belt to move via the drive pulley (1). A drive unit
+         (2) is connected to the metering conveyor scale via the drive shaft (3) and is thus able to
+         transfer its rotary movement to the metering conveyor scale. The drive unit can be
+         optionally equipped with an anti-reversing mechanism that prevents the drive unit or
+         conveyor belt from running backwards. The drive shaft is mounted on two pedestal bearings
+         (4) in such a way that it can rotate. A scraper (5) cleans material contaminations from the
+         drive pulley in order to prevent any damage to the conveyor belt.</p>
+      <p>
+         <fig>
+            <image href="media/image3.jpg" placement="break" align="center"/>
+         </fig>
+      </p>
+   </conbody>
+</concept>

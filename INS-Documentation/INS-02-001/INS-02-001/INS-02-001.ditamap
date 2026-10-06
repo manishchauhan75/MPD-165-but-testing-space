@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="INS-02-001" xml:lang="en-us">
+   <title>Inspection Safety</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2019-09-25"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content" href="INS-02-001_inspection_safety.dita">
+      <topicmeta>
+         <othermeta content="INS-02-001" name="DocumentNumber"/>
+         <othermeta content="2019-09-25" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="INS-02-001_purpose.dita"/>
+      <topicref href="INS-02-001_reference.dita"/>
+      <topicref href="INS-02-001_procedure.dita"/>
+      <topicref href="INS-02-001_approval.dita"/>
+      <topicref href="INS-02-001_revision_history.dita"/>
+   </topicref>
+</map>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference xml:lang="en-us" id="d2e12">
+   <title>Reference</title>
+   <refbody><section>
+      <ul>
+         <li>INS-02-001-F001Lockout Tagout Tryout Machine Profile - FP</li>
+         <li>INS-02-001-F002Lockout Tagout Tryout Machine Profile - FPX</li>
+         <li>INS-02-001-F003Lockout Tagout Tryout Machine Profile - FPX2</li>
+         <li>INS-02-001-F004Lockout Tagout Tryout Machine Profile - ICK-CE</li>
+         <li>INS-02-001-F005Lockout Tagout Tryout Machine Profile - ICK-non-CE</li>
+         <li>INS-02-040Inspection Equipment Validation</li>
+         <li>INS-07-001Inspection Safety Equipment</li>
+      </ul>
+   </section>
+      <section id="section_g1z_prb_rcc">
+         <title>Document Classification</title>
+         <ul id="ul_ply_qrb_rcc">
+            <li>Quality</li>
+            <li>Safety and Environment</li>
+         </ul>
+      </section>
+      <section id="section_up2_rrb_rcc">
+         <title>Fundamentals</title>
+         <ul id="ul_fdz_rrb_rcc">
+            <li>INS-301</li>
+         </ul>
+      </section></refbody>
+</reference>

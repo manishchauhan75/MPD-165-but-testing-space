@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e111">
+   <title>Navigating the Operating Screens</title>
+   <taskbody><steps>
+         <step>
+            <note>
+               <p>The AGV has two travel modes</p>
+            </note>
+            <cmd> </cmd>
+            <info>
+               <ul>
+                  <li>Manual mode is mainly used for setup and troubleshooting. In manual operation,
+                     the AGV is controlled via a wired remote control. The trained operator is
+                     responsible for the travel. Travel can take place with or without load.</li>
+                  <li>In automatic operation, the AGV receives its travel orders from a master
+                     computer (travel to position X, fetch load Y, and bring it to position Z),
+                     which are processed along the specified route. In automatic mode, the AGV can
+                     travel both with and without a load.</li>
+                  <li>There is also a semi-automatic mode that allows the operator to specify the
+                     AGV target position.</li>
+               </ul>
+            </info>
+         </step>
+         <step><cmd>The control screen and the main power switch are located on the AGV.</cmd><info><note type="note">
+               <p>Use this power switch to turn the AGV on or off.</p>
+            </note>
+            <ul>
+               <li>This switch must always be in the "O" position during maintenance work.</li>
+               <li>Follow plant lockout-tagout procedures.</li>
+            </ul>
+               <note type="note">
+                  <p>If any <b>E-Stop</b> in the SBS system is pressed, the AGV and the rest of the
+                     system will stop.</p>
+               </note>
+               <note type="note">
+                  <p>The operator can use the SBS screens to stop operation, in which case the AGV
+                     completes its current order before stopping.</p>
+               </note>
+               <p>
+                  <fig>
+                     <image href="media/image2.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step>
+            <cmd>The main screen is shown on the right. To display the main screen when another
+               screen is showing, click the<uicontrol> Home</uicontrol>button in the lower left
+               corner of the screen.</cmd>
+            <info>
+               <p>The following information is displayed:</p>
+               <ul>
+                  <li>Current load</li>
+                  <li>Current job</li>
+                  <li>Current origin and target position</li>
+                  <li>Status of battery, drives, temperature, network, WLAN</li>
+                  <li>OnTrack, MasterLinkUp (connection to Kollmorgen PC) </li>
+               </ul>
+               <p>
+                  <fig>
+                     <image href="media/image3.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+            </info>
+         </step>
+         <step><cmd>The top section of the main screen displays:</cmd><info><ul>
+               <li>Name of the AGV (on the left)</li>
+               <li>Battery charge state, shown with a battery and percent charge.  A lightning symbol appears if the AGV is currently charging.</li>
+               <li>Stop symbol, which appears only when the vehicle has been stopped by the controller. (The reason for the stop is listed on the detail screen.)</li>
+               <li>HEGLA logo</li>
+            </ul>
+         </info></step>
+         <step><cmd>Use the buttons on the bottom of the screen to navigate between the various operating screens.  From left to right, the buttons are:</cmd><info><ul>
+               <li>Back to Main Screen/Menu</li>
+               <li>Manual Operation</li>
+               <li>Carriage Details</li>
+               <li>Battery</li>
+               <li>Information Details</li>
+               <li>Maintenance</li>
+               <li>User </li>
+            </ul>
+               <p>
+                  <fig>
+                     <image href="media/image4.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step>
+            <cmd>Status Indicators are displayed using four colors in the top right box, behind the
+               images:</cmd>
+            <info>
+               <ul>
+                  <li>Green = All OK</li>
+                  <li>Yellow = Warning</li>
+                  <li>Red = Error alarm</li>
+                  <li>Purple = Serious error (prevents movement of the AGV)</li>
+               </ul>
+            </info>
+         </step>
+         <step><cmd>Messages are also provided in four colors to indicate the type of message.  They are displayed on the alarm screen (3rd screen from left of the user log in button). </cmd><info><ul>
+               <li>Black = Message</li>
+               <li>Yellow = Warning</li>
+               <li>Red = Error alarm</li>
+               <li>Purple = Serious error that prevents movement of the AGV </li>
+            </ul>
+               <note type="note">
+                  <p>The last active fault messages are displayed with "Alarm” on the Information
+                     Details screen on the AGV, and usually on the top of the screen.</p>
+               </note>
+         </info></step>
+      </steps></taskbody>
+</task>

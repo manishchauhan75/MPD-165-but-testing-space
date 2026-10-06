@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e87">
+   <title>Manual Mode Using the Touch Screen Near the Mixer</title>
+   <taskbody><steps>
+         <step><cmd>To manually operate the mixer, use the touch screen on the front door of the mixer cabinet.</cmd>
+            <info>
+               <p>
+                  <fig>
+                     <image href="media/image2.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+            </info></step>
+         <step>
+            <cmd>On the <b>Overview</b> screen, log in and press the <uicontrol>Manual
+                  Panel</uicontrol> button.</cmd>
+            <info>
+               <ul>
+                  <li>When logged in, the operator can place the mixer into Manual mode and operate
+                     each piece of equipment individually. </li>
+                  <li>After completing work, tap "remote" to tell the mixer to receive commands from
+                     the SCADA instead of manually from the HMI.</li>
+               </ul>
+               <note type="note">
+                  <p>The Manual mode of operation is NOT interlocked! The operator can switch each
+                     drive on and off independently from another device. The operator is responsible
+                     for maintaining the correct order so that no equipment is damaged.</p>
+               </note>
+               <p>
+                  <fig>
+                     <image href="media/image3.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+            </info>
+         </step>
+         <step><cmd>Operate the listed devices by pressing the appropriate buttons.</cmd><info><ul>
+               <li>Press the<uicontrol> Start </uicontrol>and <uicontrol>Stop </uicontrol>buttons,
+                     or <uicontrol>Open</uicontrol> and <uicontrol>Close</uicontrol> buttons, to
+                     operate a device.</li>
+                  <li>Some devices have a tipping (jog) operation. Press and hold the
+                        <uicontrol>Tipp</uicontrol> button to turn the device on. Release the button
+                     to stop the device.  </li>
+            </ul>
+               <p>
+                  <fig>
+                     <image href="media/image4.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step>
+            <cmd>Press the <uicontrol>System </uicontrol> button on the bottom of the screen to
+               display the System screen.</cmd>
+            <info>
+               <ul>
+                  <li>
+                     <b>DB Lock</b>: This button only has functionality when the panel is connected
+                     to the PLC.</li>
+                  <li>
+                     <b>User Administration</b>: Opens a screen that displays all active users,
+                     where users can change passwords, and new users are added.</li>
+                  <li>
+                     <b>Transfer</b>: For Zippe-Service only, to transfer program changes to the
+                     panel.</li>
+                  <li>
+                     <b>Show Version</b>: The current version of the touch screen is displayed.</li>
+                  <li>
+                     <b>System Diagnostic</b>: Use this screen to browse all connected Profinet
+                     devices to check their actual working status.</li>
+                  <li>
+                     <b>Display Calibration</b>: Used to improve touchscreen accuracy. Follow the
+                     instructions on the screen.</li>
+                  <li>
+                     <b>Display Cleaning</b>: Locks the touchscreen for a few seconds to physically
+                     clean the display.</li>
+                  <li>
+                     <b>Exit Runtime</b>: Click this button to shut down the HMI-Runtime. This is
+                     typically done to close the control screen, and access other parts of the touch
+                     panel operating system.</li>
+                  <li>
+                     <b>Control Panel</b>: Opens the control panel of the underlying Windows
+                     System.</li>
+               </ul>
+               <p>
+                  <fig>
+                     <image href="media/image5.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+            </info>
+         </step>
+      </steps></taskbody>
+</task>

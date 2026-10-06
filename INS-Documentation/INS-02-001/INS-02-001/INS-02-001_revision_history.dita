@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e180">
+   <title>Revision History</title>
+   <conbody>
+      <p>
+         <table id="table_gqg_5sb_rcc">
+            <tgroup cols="2">
+               <colspec colname="c1" colwidth="45.08%"/>
+               <colspec colname="c2" colwidth="45.08%"/>
+               <tbody>
+                  <row>
+                     <entry>2015-04-01</entry>
+                     <entry>
+                        <p>Original Issue</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry morerows="3">2019-09-25</entry>
+                     <entry>
+                        <p>Approved by Bob Morin, Global Inspection Network Leader</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Made the entire contents of Section 3.4 a Non-Negotiable requirement.</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Added a Non-Negotiable requirement to Section 3.4 to adhere to machine
+                           specific Lockout / Tagout profiles for FP, FPX, FPX2, and ICK
+                           machines.</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Updated References.</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </p>
+   </conbody>
+</concept>

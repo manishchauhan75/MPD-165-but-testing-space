@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e120">
+   <title>Starting and Stopping the Metering Conveyor Scale</title>
+   <taskbody><steps>
+         <step><cmd>Perform the following checks before starting up the metering conveyor scale:</cmd><info><ul>
+               <li>Inspect the metering conveyor scale for visible damage, and correct any problems
+                  before operating.</li>
+               <li>Verify that the safety mechanisms are installed and in proper condition.</li>
+               <li>Verify that the rotary survey is installed and functioning correctly.</li>
+               <li>Verify that the feed and discharge unit is connected correctly.</li>
+               <li>Make sure that no personnel are present in the danger area or in the areas of
+                     movement of machine parts.</li>
+            </ul>
+         </info></step>
+         <step><cmd>To turn on the metering conveyor scale:</cmd><info><ul>
+               <li>Switch the lockable main switch to On.</li>
+                  <li>Acknowledge the emergency stop using the operating screen.</li>
+            </ul>
+         </info></step>
+         <step><cmd>To turn off the metering conveyor scale:</cmd><info><ul>
+               <li>Use the user interface at the control cabinet.</li>
+                  <li>The metering conveyor scale continues to run and terminates the movements of
+                     the actuators.</li>
+                  <li>Then switch off the metering conveyor scale using the lockable main switch.  </li>
+            </ul>
+               <p>
+                  <fig>
+                     <image href="media/image6.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step><cmd>If a fault or malfunction occurs, this is indicated at the user interface.</cmd><info><note type="note">
+               <p>For information about possible errors and malfunctions and the procedure for
+                     eliminating errors, see the electrical documentation. </p>
+            </note>
+         </info></step>
+      </steps></taskbody>
+</task>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e91">
+   <title>Rotary Survey</title>
+   <conbody>
+      <p>The rotary survey sends pulses to the controller to indicate that the tensioning pulley is
+         turning. These pulses are evaluated by the PLC or a control device (except in manual
+         operation). The rotary survey is an incremental encoder (inductive proximity switch) (1)
+         and cam switch (2) that are mounted at the end of the tensioning pulley shaft.</p>
+      <p>If the pulses are not received, the metering conveyor scale will be switched off after a
+         time delay to protect it against damage.</p>
+      <p>If the rotary survey triggers, it is necessary to perform the following steps.<ol
+            id="ol_d5g_ymc_wcc">
+            <li> Identify the reason why the rotary survey triggered.</li>
+            <li>Eliminate the reason that caused the rotary survey to trigger.</li>
+            <li>Acknowledge the error message at the control cabinet (blue pushbutton).</li>
+         </ol></p>
+      <p>
+         <fig>
+            <image href="media/image5.jpg" placement="break" align="center"/>
+         </fig>
+      </p>
+   </conbody>
+</concept>

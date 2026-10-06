@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="SBS-OP-138A" xml:lang="en-us">
+   <title>Overview of the Belt Conveyor</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2024-02-15"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content" href="SBS-OP-138A_overview_of_the_belt_conveyor.dita">
+      <topicmeta>
+         <othermeta content="SBS-OP-138A" name="DocumentNumber"/>
+         <othermeta content="2024-02-15" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="SBS-OP-138A_purposeapplication.dita"/>
+      <topicref href="SBS-OP-138A_ppe_required.dita"/>
+      <topicref href="SBS-OP-138A_safety_hazards.dita"/>
+      <topicref href="SBS-OP-138A_respirable_crystalline_silica.dita"/>
+      <topicref href="SBS-OP-138A_safety_controls.dita"/>
+      <topicref href="SBS-OP-138A_equipment_needed.dita"/>
+      <topicref href="SBS-OP-138A_comments.dita"/>
+      <topicref href="SBS-OP-138A_related_resources.dita"/>
+      <topicref href="SBS-OP-138A_introduction.dita"/>
+      <topicref href="SBS-OP-138A_drive_station.dita"/>
+      <topicref href="SBS-OP-138A_tensioning_station.dita"/>
+      <topicref href="SBS-OP-138A_belt_cleaners_pneumatic.dita"/>
+      <topicref href="SBS-OP-138A_operating_modes.dita"/>
+      <topicref href="SBS-OP-138A_approval.dita"/>
+      <topicref href="SBS-OP-138A_revision_history.dita"/>
+   </topicref>
+</map>

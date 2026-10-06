@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e22">
+   <title>Instructions</title>
+   <taskbody><steps>
+         <step><cmd>Before starting the work instruction activity, perform the following steps:</cmd>
+            <substeps id="substeps_v24_fg5_tcc">
+               <substep>
+                  <cmd>Do not begin these tasks without confirmation that personnel directly
+                     involved have completed the required training associated with the work
+                     instruction activity and have reviewed this document.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Gather necessary tools and equipment as identified below in the Equipment
+                     Section.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Wear and use additional Personal Protective Equipment (PPE) and safety
+                     equipment required for this specific work instruction.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Obey all applicable safety requirements and procedures.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Notify appropriate personnel of the activity and estimated time needed to
+                     complete the tasks.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Follow all Lockout/Tagout procedures when work instruction activity requires
+                     isolating energy in the designated area. Verify energy is isolated before
+                     starting work.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>Prior to the Job Change or FTA setup, perform the following steps:</cmd>
+            <substeps id="substeps_nwt_mg5_tcc">
+               <substep>
+                  <cmd>Monitor the production flow to ensure that the machine is properly set up in
+                     accordance with the appropriate Container Handling Work Instruction:</cmd>
+                  <info>
+                     <ol id="ol_jvt_ng5_tcc">
+                        <li>INS-03-013 (FP without Plug Gauge)</li>
+                        <li>INS-03-014 (FPX)</li>
+                        <li>INS-03-015 (FPX2)</li>
+                        <li>INS-03-018 (FP with Plug Gauge)</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_bg1_nh5_tcc">
+                           <image href="media/image1.jpg" placement="break" id="image_cg1_nh5_tcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step><cmd>To set up the Headplate, perform the following steps:</cmd>
+            <substeps id="substeps_id4_th5_tcc">
+               <substep>
+                  <cmd>Jog a commercial quality container of the type to be inspected into station
+                     #1 of the machine.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_o2p_vh5_tcc">
+                           <image href="media/image2.jpg" placement="break" id="image_p2p_vh5_tcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Verify the gauge light is on.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_mkn_xh5_tcc">
+                           <image href="../../INS-03-102/media/image3.jpg" id="image_gl2_qy1_hkc"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Confirm the headplate height adjustment in accordance with the appropriate
+                     Container Handling Work Instruction:</cmd>
+                  <info>
+                     <ol id="ol_ig2_zh5_tcc">
+                        <li>INS-03-013 (FP without Plug Gauge)</li>
+                        <li>INS-03-014 (FPX)</li>
+                        <li>INS-03-015 (FPX2)</li>
+                        <li>INS-03-018 (FP with Plug Gauge)</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_pxx_235_tcc">
+                           <image href="media/image4.jpg" placement="break" id="image_qxx_235_tcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step><cmd>For the mechanical setup of the FTA Head Assembly, perform the following steps:</cmd>
+            <substeps id="substeps_qb4_r35_tcc">
+               <substep>
+                  <cmd>Select <uicontrol>Display > FTA</uicontrol> from the IPS Main Menu.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_nzf_hk5_tcc">
+                           <image href="media/image5.jpg" placement="break" id="image_ozf_hk5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Select <uicontrol>Image > Scope</uicontrol> from the FTA Main Menu to display
+                     the Scope Screen.</cmd>
+                  <info>
+                     <p>
+                        <image href="media/image6.jpg" placement="break" id="image_yn4_kk5_tcc"
+                           align="center" scale="50"/>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>Scope On</uicontrol> button.</cmd>
+                  <info>
+                     <ol id="ol_tbg_v35_tcc">
+                        <li>Enable the Cross Hairs to aid in setup.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_isr_r1v_tcc">
+                           <image href="media/image7.jpg" placement="break" id="image_t44_sk5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>If the container is not appearing on the screen, use the up / down and in /
+                     out adjustments until an image appears.</cmd>
+                  <info>
+                     <ol id="ol_zrh_z35_tcc">
+                        <li>Locking Screws (up / down)</li>
+                        <li> Adjustment Screw (up / down)</li>
+                        <li>Locking Screws (in / out) (recessed)</li>
+                        <li>Adjustment Knob (in / out)</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_f1h_xk5_tcc">
+                           <image href="media/image8.jpg" placement="break" id="image_g1h_xk5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>While monitoring the Scope Screen, slightly loosen the Locking Screw and
+                     adjust the position of the Head Assembly left/right using the Adjustment Screw
+                     until the sealing surface image is horizontal as in the image shown. When
+                     finished, tighten the Locking Screw.</cmd>
+                  <info>
+                     <ol id="ol_jcg_fj5_tcc">
+                        <li>Locking Screw (left / right)</li>
+                        <li>Adjustment Screw (left / right)</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_xp3_cl5_tcc">
+                           <image href="media/image9.jpg" placement="break" id="image_yp3_cl5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>While monitoring the Scope Screen, loosen the Locking Screws (recessed) and
+                     adjust the position of the Head Assembly in/out using the Adjustment Knob until
+                     the sealing surface image is vertically centered as in the image shown. When
+                     finished, tighten the Locking Screws.</cmd>
+                  <info>
+                     <ol id="ol_xqx_jj5_tcc">
+                        <li>Locking Screws (in / out)</li>
+                        <li>Adjustment Knob (in / out)</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_tjx_fl5_tcc">
+                           <image href="media/image10.jpg" placement="break" id="image_ujx_fl5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>While monitoring the Scope Screen, slightly loosen the Locking Screws and
+                     adjust the position of the Head Assembly up/down using the Adjustment Screw
+                     until the vertical Wire Edge laser line is centered as in the image shown. When
+                     finished, tighten the Locking Screws.</cmd>
+                  <info>
+                     <ol id="ol_c5l_4j5_tcc">
+                        <li>Locking Screws (up / down)</li>
+                        <li>Adjustment Screw (up / down)</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_w3b_kl5_tcc">
+                           <image href="media/image11.jpg" placement="break" id="image_x3b_kl5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>When the laser is centered on the crosshairs, confirm that the sealing
+                     surface of the container is in focus. If it is not, the FTA Head requires
+                     realignment or repair.</cmd>
+                  <info>
+                     <note id="note_lx2_ml5_tcc">
+                        <p>The adjustment steps above may need to be repeated until the image is
+                           centered on the crosshairs.</p>
+                     </note>
+                     <p>
+                        <fig id="fig_d4g_4l5_tcc">
+                           <image href="media/image12.jpg" id="image_e4g_4l5_tcc"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step><cmd>To adjust the FTA light settings, perform the following steps:</cmd>
+            <substeps id="substeps_ull_nn5_tcc">
+               <substep>
+                  <cmd>Adjust the <b>Sealing Surface Balance</b>slider to obtain an even contrast
+                     throughout the image from top to bottom.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_uxq_yn5_tcc">
+                           <image href="media/image13.jpg" placement="break" id="image_vxq_yn5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                        <fig id="fig_vj4_zn5_tcc">
+                           <image href="media/image14.jpg" placement="break" id="image_wj4_zn5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Adjust the <b>Sealing Surface Intensity </b>slider until the Measured SS
+                     Intensity reads between 80 and 90.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_xfn_145_tcc">
+                           <image href="media/image15.jpg" placement="break" id="image_yfn_145_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Adjust the <b>Laser Intensity</b>slider until the Measured WE Width indicates
+                     “Good.”</cmd>
+                  <info>
+                     <ol id="ol_t3f_rn5_tcc">
+                        <li>The ideal WE Width is 4.0.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_i25_b45_tcc">
+                           <image href="media/image16.jpg" placement="break" id="image_j25_b45_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                        <fig id="fig_cy5_245_tcc">
+                           <image href="media/image17.jpg" placement="break" id="image_dy5_245_tcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step><cmd>For the software setup of the FTA, perform the following steps:</cmd>
+            <substeps id="substeps_ely_m45_tcc">
+               <substep>
+                  <cmd>Select <uicontrol>Image>Trap</uicontrol>.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_nm1_wq5_tcc">
+                           <image href="media/image18.jpg" placement="break" id="image_om1_wq5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>Set Trap</uicontrol> button.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_nfc_zq5_tcc">
+                           <image href="media/image19.jpg" placement="break" id="image_ofc_zq5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>When the “Waiting” message appears, run one commercial quality container
+                     through the machine.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_ax2_br5_tcc">
+                           <image href="media/image20.jpg" placement="break" id="image_bx2_br5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>When the “Trapped” message appears, press the <uicontrol>View</uicontrol>
+                     button corresponding to the machine being set up.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_cbz_cr5_tcc">
+                           <image href="media/image21.jpg" placement="break" id="image_dbz_cr5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>Setup</uicontrol> button.</cmd>
+                  <info>
+                     <ol id="ol_ywm_r45_tcc">
+                        <li>When the confirmation popup appears that states the changes made in this
+                           screen will affect the calculated image only, press the
+                              <uicontrol>OK</uicontrol> button.</li>
+                        <li>The <b>Job Change</b> and <b>Sensitivity</b> buttons will now display
+                           along the right side of the screen.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_z1s_fr5_tcc">
+                           <image href="media/image22.jpg" placement="break" id="image_abs_fr5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                        <fig id="fig_s25_gs5_tcc">
+                           <image href="media/image23.jpg" placement="break" id="image_t25_gs5_tcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>Job Change > Job Setup</uicontrol> button in the Job
+                     Change popup menu to display the Job Setup Screen.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_jyv_3s5_tcc">
+                           <image href="media/image24.jpg" placement="break" id="image_kyv_3s5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Verify that the<b>Bottle Type</b> is set to<b>Normal</b>.</cmd>
+                  <info>
+                     <ol id="ol_zkz_v45_tcc">
+                        <li>Selecting the <b>Bottle Type</b> will reset all the FTA settings to
+                           their default values.</li>
+                        <li>Choose the proper type of finish as needed.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_igr_ls5_tcc">
+                           <image href="media/image25.jpg" placement="break" id="image_jgr_ls5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>Finish Diameter</uicontrol> button corresponding to the
+                     active FP and use the numeric keypad popup to specify the container’s finish
+                     diameter.</cmd>
+                  <info>
+                     <ol id="ol_ysd_y45_tcc">
+                        <li>The value must be entered in millimeters even if the system is not set
+                           to metric.</li>
+                        <li>Wide angle lens should not be used on standard finishes. If a wide angle
+                           lens is used, set the finish diameter as follows:<ol id="ol_ulq_z45_tcc">
+                              <li>Less than 50 millimeters, set the value to 70% of the actual
+                                 diameter.</li>
+                              <li>More than 50 millimeters, set the value to 35 millimeters.</li>
+                           </ol></li>
+                     </ol>
+                     <p>
+                        <fig id="fig_zyk_rq5_tcc">
+                           <image href="media/image26.jpg" placement="break" id="image_azk_rq5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                        <fig id="fig_bzk_rq5_tcc">
+                           <image href="media/image27.jpg" placement="break" id="image_czk_rq5_tcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Select an individual frame to maximize it on the View Image Screen.</cmd>
+                  <info>
+                     <ol id="ol_uxb_kp5_tcc">
+                        <li>Select the image that is the most centered within the frame.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_pns_ss5_tcc">
+                           <image href="media/image148.jpg" placement="break" id="image_qns_ss5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>Job Change > Finish Learn</uicontrol> button in the Job
+                     Change popup menu.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_wnb_vs5_tcc">
+                           <image href="media/image150.jpg" placement="break" id="image_xnb_vs5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Select the top of the finish in the image center as prompted.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_tvb_xs5_tcc">
+                           <image href="media/image156.jpg" placement="break" id="image_uvb_xs5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Select the bottom of the finish in the image center as prompted.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_vkd_zs5_tcc">
+                           <image href="media/image138.jpg" placement="break" id="image_wkd_zs5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>When the informational popup appears stating the new Finish Width and initial
+                     Finish Intensity, press the <uicontrol>Yes</uicontrol> button.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_ymg_bt5_tcc">
+                           <image href="media/image139.jpg" placement="break" id="image_zmg_bt5_tcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>Save Changes</uicontrol> button beneath the “Unsaved
+                     Changes” heading. Press the <uicontrol>Yes</uicontrol> button when the confirm
+                     popup appears.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_alt_ct5_tcc">
+                           <image href="media/image144.jpg" placement="break" id="image_blt_ct5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Verify the appropriate inspection channels are enabled according to the FTA
+                     section of MSDR INS-03-030 Minimum Inspection Channels on O-I Equipment.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Verify the inspection channel settings are within the ranges specified in the
+                     FTA section of MSDR INS-07-031 Inspection Device Setup Parameters for O-I
+                     Equipment.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Validate the device based on Work Instruction INS-03-011 Equipment Validation
+                     Process – Inspection Device.</cmd>
+               </substep>
+            </substeps></step>
+         <step>
+            <cmd>To fine tune the mechanical setup of the FTA Head Assembly as needed, perform the
+               following steps:</cmd>
+            <substeps id="substeps_ffn_3t5_tcc">
+               <substep>
+                  <cmd>Press <uicontrol>Status > Pockets</uicontrol> to display the FTA Pocket
+                     Screen.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_mct_c55_tcc">
+                           <image href="media/image34.jpg" placement="break" id="image_nct_c55_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Clear out all the totals by pressing the <uicontrol>Clear</uicontrol>
+                     button.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_wlj_255_tcc">
+                           <image href="media/image35.jpg" placement="break" id="image_xlj_255_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Start the machine (ensure production ware is available at the infeed).</cmd>
+                  <info>
+                     <ol id="ol_acv_lt5_tcc">
+                        <li>The numbers shown in the lower left are the values obtained for the
+                           individual pockets of each machine and an average for all the
+                           pockets.</li>
+                        <li>The numbers shown in the upper left are the minimum / maximum values
+                           obtained during the 15 minute inspection interval.</li>
+                        <li>As the containers travel through the pockets, each gray number will turn
+                           black, yellow, or red when a sufficient number of containers have
+                           passed.</li>
+                        <li>The numbers will display black when acceptable, yellow when approaching
+                           a limit, or red when the limit has been exceeded. The FTA Head is
+                           properly adjusted when all these numbers are black.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_rnj_g55_tcc">
+                           <image href="media/image36.jpg" placement="break" id="image_snj_g55_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                        <fig id="fig_gdr_355_tcc">
+                           <image href="media/image37.jpg" placement="break" id="image_hdr_355_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Note the pocket values for each machine. If the values are displayed in
+                     yellow or red, perform steps 5 through 9. If this does not result in the values
+                     turning black (acceptable), the container handling must be reviewed.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>Adjust</uicontrol> button corresponding to the machine
+                     needing adjustment. This will display a list of specific adjustments that can
+                     be made to improve the average pocket location.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_iwz_l55_tcc">
+                           <image href="media/image38.jpg" placement="break" id="image_jwz_l55_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Adjust the FTA Head according to the instructions in the Adjust Head
+                     popup.</cmd>
+                  <info>
+                     <ol id="ol_qkc_5t5_tcc">
+                        <li>Continue to monitor the values and perform additional adjustments of the
+                           FTA Head until the percentages associated with each of the three Head
+                           Adjustments are as close to zero as possible.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_pjj_455_tcc">
+                           <image href="media/image39.jpg" placement="break" id="image_qjj_455_tcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Use the “First 10” option in the Trap screen to obtain multiple trapped
+                     images. </cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_knl_5y5_tcc">
+                           <image href="media/image40.jpg" placement="break" id="image_lnl_5y5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>Set Trap</uicontrol> button.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_ilr_wy5_tcc">
+                           <image href="media/image41.jpg" placement="break" id="image_jlr_wy5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Review each image to ensure that the finish is properly centered.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_agm_bz5_tcc">
+                           <image href="media/image42.jpg" placement="break" id="image_bgm_bz5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps>
+         </step>
+         <step><cmd>To verify the consistency of the Initial Intensity values (once all the machines on the line are set up), perform the following steps:</cmd>
+            <substeps id="substeps_eq2_nz5_tcc">
+               <substep>
+                  <cmd>Select <uicontrol>Setup > Job Change > Finish Intensity</uicontrol> to
+                     display the Initial Intensity Screen.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_rt1_5z5_tcc">
+                           <image href="media/image43.jpg" placement="break" id="image_st1_5z5_tcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Verify the Initial Intensity values are within ±5 for all the machines. If
+                     any of the values are outside of this range, perform Work Instruction
+                     INS-03-030 Finish Setup - O-I - FTA Intensity Balance.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_plk_vz5_tcc">
+                           <image href="media/image44.jpg" placement="break" id="image_qlk_vz5_tcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                     <note id="note_hlx_qz5_tcc">
+                        <p>If any of the Initial Intensity values are significantly lower than other
+                           values on the line, (70 in the above example), and the Sealing Surface
+                           Intensity value must be adjusted to near 100 to obtain the desired
+                           measured intensity, this may indicate that the FTA Head needs
+                           servicing.</p>
+                     </note>
+                     <p>
+                        <fig id="fig_tzp_wz5_tcc">
+                           <image href="media/image45.jpg" placement="break" id="image_uzp_wz5_tcc"
+                              align="center" scale="50"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step><cmd>Upon completion of tasks, perform the following steps:</cmd>
+            <substeps id="substeps_evp_b1v_tcc">
+               <substep>
+                  <cmd>Replace protective guarding and close safety interlock gates.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Confirm the designated work area is clear and communicate to personnel the
+                     intent to restart energy.</cmd>
+               </substep>
+               <substep>
+                  <cmd>After the designated work area is confirmed clear and personnel are aware of
+                     the pending restart, follow all Lockout/Tagout procedures to restart energy
+                     supplied to the designated area. Verify energy is active.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Remove signs and markings from the designated work area.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Perform basic housekeeping duties. Clean up the work space, tools and
+                     equipment. Dispose of trash. Put tools and equipment in assigned area.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Notify appropriate personnel that the work instruction activity has been
+                     completed.</cmd>
+               </substep>
+            </substeps></step>
+      </steps></taskbody>
+</task>

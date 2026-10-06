@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e85">
+   <title>Mixer Cycles and Operating Values</title>
+   <taskbody><steps>
+         <step><cmd>The mixer is automatically operated by the SBS system.  The mixing cycle has 5 stages:</cmd><info><ul>
+               <li>Filling the Mixer</li>
+                  <li>Dry Mixing</li>
+                  <li>Water Dosing</li>
+                  <li>Wet Mixing</li>
+                  <li>Discharge</li>
+            </ul>
+               <note type="note">
+                  <p>The values are set on the Formula screen for the amount of time for dry mixing,
+                     water dosing, wet mixing, and discharge. To set the values, refer to
+                     SBS-OP-031B Setting the Mixer Parameters Using the Formula Screen.</p>
+               </note>
+               <note type="note">
+                  <p>To manually operate the mixer by using the touch panel near the mixer, refer to
+                     SBS-OP-031C Manual Mode Using the Touch Screen Near the Mixer.</p>
+               </note>
+               <note type="note">
+                  <p>There is an E-Stop on the mixer control panel and on a column near the
+                     discharge side of the mixer.</p>
+               </note>
+               <p>
+                  <fig>
+                     <image href="media/image2.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+               <p>
+                  <fig id="fig_o1y_sjc_wcc">
+                     <image href="media/image4.jpg" placement="break" id="image_x5c_zjc_wcc"
+                        align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step>
+            <cmd><b> Filling the Mixer</b>: When the batch receiving hopper above the mixer becomes
+               full:</cmd>
+            <info>
+               <ul>
+                  <li>The system will verify that there are no mixer faults and that the lid is
+                     closed.</li>
+                  <li>The mixing paddles and side scrappers in the mixer begin to rotate.</li>
+                  <li>The closure at the bottom of the hopper then opens, and the hopper contents
+                     empty into the mixer. </li>
+               </ul>
+            </info>
+         </step>
+         <step><cmd>
+            <b>Dry Mixing</b>: When the hopper is empty, the mixing continues for the amount of time specified for the batch formula. </cmd></step>
+         <step>
+            <cmd>
+               <b>Water Dosing</b>: When the dry mixing time is completed, the specified amount of
+               water is fed into the mixer. There are two different modes for adding water, which
+               are selected on the Formula screen.</cmd>
+            <info>
+               <ul>
+                  <li>Dosing by Value. The system monitors the signal from the water counter and
+                     compares it with the value in the formula. When the set point is reached, the
+                     water valve will close.<ul>
+                        <li>The PLC checks the time between the impulses from the water counter. If
+                           the water runs too slow or water dosing takes too long, the water valve
+                           will close, and a failure message is generated.</li>
+                        <li>If dosing is interrupted because of a failure, feed the residual amount
+                           manually or abort the dosing.</li>
+                        <li>For manual dosing, use the button from the water valve on the SCADA
+                           screen or the faceplate. The water valve closes when the set point is
+                           reached.</li>
+                        <li>To abort the dosing, click on the blue failure reset button for the
+                           mixer.</li>
+                     </ul>
+                  </li>
+                  <li>Dosing by Time. If this mode is active, the water valve will open for the
+                     specified amount of time, and then the water valve closes. There is no check
+                     for the amount of water flow. This mode can be used if the water counter is
+                     damaged. </li>
+               </ul>
+               <p>
+                  <fig>
+                     <image href="media/image3.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+            </info>
+         </step>
+         <step><cmd>
+            <b>Wet Mixing</b>:  After the water adding, the wet mixing time starts.</cmd></step>
+         <step><cmd>
+            <b>Discharge</b>:  After wet mixing is completed, the fill release signal from the post hopper scale should activate.  </cmd><info><ul>
+               <li>The discharge slide/gate on the bottom of the mixer then opens, and discharges the batch to the post hopper scale.</li>
+               <li>The discharge timer begins.</li>
+               <li>If the weight of the batch (typically one metric ton) is not discharged from the
+                     mixer within the programmed time, the system produces a fault/error
+                     message.</li>
+               <li>The weight is shown on the integration control panel screen.</li>
+            </ul>
+         </info></step>
+         <step>
+            <cmd>After the material is discharged and the discharge slide/gate closes, the mixer is
+               ready to be filled again.</cmd>
+         </step>
+      </steps></taskbody>
+</task>

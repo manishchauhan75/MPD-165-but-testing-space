@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e115">
+   <title>Operating Modes</title>
+   <conbody>
+      <p>Automatic mode is the default mode for operation of the belt conveyor. In automatic mode, all the operating sequences of the belt conveyor run automatically, and the belt conveyor is operated in combination with other machines or system components. All current data, messages, errors and other information are displayed at the user interface.</p>
+      <p>The belt conveyor can be operated manually for maintenance purposes. In this case, man- ual operation is performed via the user interface at the control cabinet. This operating mode is intended for emergencies and for maintenance and repair work. There are no locking mechanisms in manual mode.</p>
+   </conbody>
+</concept>

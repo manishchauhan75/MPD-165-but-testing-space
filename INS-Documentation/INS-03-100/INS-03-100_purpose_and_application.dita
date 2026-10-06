@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e8">
+   <title>Purpose and Application</title>
+   <conbody>
+      <section id="section_qg4_2ly_wcc">
+         <title>Purpose</title>
+         <p>To define a work instruction for proper setup of round container handling on MX4
+            Machines.</p>
+      </section>
+      <section id="section_xss_2ly_wcc">
+         <title>Application</title>
+         <p>This work instruction applies to all O-I manufacturing facilities.</p>
+      </section>
+   </conbody>
+</concept>

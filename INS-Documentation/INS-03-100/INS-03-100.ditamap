@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="INS-03-100" xml:lang="en-us">
+   <title>Container Handling Setup - Tiama - MX4</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2021-10-12"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content" href="INS-03-100_container_handling_setup_-_tiama_-_mx4.dita">
+      <topicmeta>
+         <othermeta content="INS-03-100" name="DocumentNumber"/>
+         <othermeta content="2021-10-12" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="INS-03-100_purpose_and_application.dita"/>
+      <topicref href="INS-03-100_safety.dita"/>
+      <topicref href="INS-03-100_nstructions.dita"/>
+      <topicref href="INS-03-100_required_training.dita"/>
+      <topicref href="INS-03-100_equipment.dita"/>
+      <topicref href="INS-03-100_references.dita"/>
+      <topicref href="INS-03-100_approval.dita"/>
+      <topicref href="INS-03-100_revision_history.dita"/>
+   </topicref>
+</map>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e170">
+   <title>Operating the Belt Conveyor</title>
+   <taskbody><steps>
+         <step><cmd>To start the entire cullet system:</cmd><info><ul>
+               <li>At the Belt Conveyor Control screen, display the Silofeeding Cullet screen.</li>
+               <li>Turn on the entire system by pressing the <uicontrol>Start </uicontrol>button. </li>
+            </ul>
+               <note type="note">
+                  <p>If only the belt conveyor must be started, such as for maintenance, skip this
+                     step and go to Step 2 below. </p>
+               </note>
+               <p>
+                  <fig id="fig_wb3_4sn_vcc">
+                     <image href="word/media/image9.jpg" placement="break" id="image_ucx_jxn_vcc"
+                        align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step><cmd>To start the belt conveyor:</cmd><info><ul>
+               <li>Make sure that the belt conveyor and safety mechanisms are in fault-free condition and functioning correctly.</li>
+               <li>Switch on the belt conveyor using the lockable main switch at the control cabinet.</li>
+               <li>Acknowledge the emergency stop using the user interface at the control cabinet.</li>
+               <li>Place in <b>Manual</b> mode to start the belt. </li>
+            </ul>
+               <p>
+                  <fig id="fig_kds_rsn_vcc">
+                     <image href="word/media/image10.jpg" placement="break" id="image_lvb_lxn_vcc"
+                        align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step><cmd>To turn off the belt conveyor:</cmd><info><ul>
+               <li>Shut down the belt conveyor using the user interface at the control cabinet.</li>
+               <li>The belt conveyor continues to run and terminates the movements of the actuators/</li>
+               <li>Switch off the belt conveyor using the lockable main switch.</li>
+               <li>The belt conveyor is now switched off. </li>
+            </ul>
+               <p>
+                  <fig id="fig_osk_ssn_vcc">
+                     <p>
+                        <image href="word/media/image11.jpg" placement="break"
+                           id="image_bml_mxn_vcc" align="center"/>
+                     </p>
+                  </fig>
+               </p>
+         </info></step>
+         <step>
+            <cmd><b>LO/TO</b> the belt conveyor using the lockable main switch at the
+               disconnect.</cmd>
+         </step>
+      </steps></taskbody>
+</task>

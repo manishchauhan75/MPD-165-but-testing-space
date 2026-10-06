@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e35">
+   <title>Equipment Needed</title>
+   <conbody>
+      <ul>
+         <li>Access to the SCADA SBS workstation</li>
+      </ul>
+   </conbody>
+</concept>

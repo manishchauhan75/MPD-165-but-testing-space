@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e61">
+   <title>Safety Mechanisms and Controls</title>
+   <taskbody><steps>
+         <step>
+            <cmd>Before operating the metering conveyor scale, verify that all safety mechanisms,
+               such as the protective housings and covers, are installed and functioning
+               properly.</cmd>
+         </step>
+         <step>
+            <note>
+               <table outputclass="icontable">
+                  <tgroup cols="2">
+                     <colspec colname="c1" colnum="1" colwidth="1*"/>
+                     <colspec colname="c2" colnum="2" colwidth="1*"/>
+                     <tbody>
+                        <row>
+                           <entry/>
+                           <entry>
+                              <p>Electric Shock</p>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </note>
+            <cmd>The lockable main switch on the door of the metering conveyor scale control cabinet
+               is used to switch off the power supply to the metering conveyor scale. </cmd>
+            <info>
+               <ul>
+                  <li>The cabinet is located on the Hydra-Mix floor (two floors up from the melter
+                     control room).</li>
+                  <li>When the switch is switched to “Off”, the metering conveyor scale will not
+                     work and no movements will occur.   </li>
+               </ul>
+               <note type="caution">
+                  <p>Even after a main switch has been switched off, the following circuits remain
+                     live (if present) for the corresponding control cabinet: Lighting for control
+                     cabinet, control cabinet socket, control cabinet ventilation.</p>
+               </note>
+               <p>
+                  <fig>
+                     <image href="media/image2.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+            </info>
+         </step>
+         <step>
+            <note>
+               <table outputclass="icontable">
+                  <tgroup cols="2">
+                     <colspec colname="c1" colnum="1" colwidth="1*"/>
+                     <colspec colname="c2" colnum="2" colwidth="1*"/>
+                     <tbody>
+                        <row>
+                           <entry/>
+                           <entry>
+                              <p>Electric Shock</p>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </note>
+            <cmd>The E-Stop switch is located at the control cabinet. It shuts down all functions
+               and movements. </cmd>
+            <info>
+               <p>
+                  <note type="caution">
+                     <p> E-Stop switches do not disconnect the metering conveyor scale from the
+                        power supply. All machine parts that are live during normal operation
+                        continue to be live after an emergency stop has been triggered. </p>
+                  </note>
+               </p>
+               <p>
+                  <fig>
+                     <image href="media/image3.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+            </info>
+         </step>
+         <step>
+            <note id="note_myy_qqd_5cc">
+               <table id="table_xdk_rqd_5cc" outputclass="icontable">
+                  <tgroup cols="2">
+                     <colspec colname="c1" colnum="1" colwidth="1*"/>
+                     <colspec colname="c2" colnum="2" colwidth="1*"/>
+                     <tbody>
+                        <row>
+                           <entry/>
+                           <entry>
+                              <p>LO/TO (Lockout-Tagout)</p>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </note>
+            <cmd>The metering conveyor scale also has a service switch to switch off the device. </cmd>
+            <info>
+               <ul id="ul_qty_sqd_5cc">
+                  <li>The service switch does not completely cut off the metering conveyor scale
+                     from the power supply. Lines that are still live even when the service switch
+                     is off are identified in orange.</li>
+                  <li><b>LO/TO</b> the service switch before performing maintenance work. </li>
+               </ul>
+               <p>
+                  <fig id="fig_sty_sqd_5cc">
+                     <image href="media/image4.jpg" placement="break" id="image_tty_sqd_5cc"
+                        align="center"/>
+                  </fig>
+               </p>
+            </info>
+         </step>
+         <step><cmd>The metering conveyor scale has warning signs for:</cmd><info><ul>
+               <li>Dangerous electrical voltage</li>
+                  <li>Danger of pulling-in and crushing </li>
+            </ul>
+               <p>
+                  <fig id="fig_ip1_vqd_5cc">
+                     <image href="media/image5.jpg" placement="break" id="image_jp1_vqd_5cc"
+                        align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step><cmd>Hazardous materials and substances are transported on the metering conveyor scale.</cmd><info><ul>
+               <li>Observe all plant requirements when operating the device.</li>
+                  <li>Replace contaminated clothing with clean clothing immediately.</li>
+            </ul>
+         </info></step>
+      </steps></taskbody>
+</task>

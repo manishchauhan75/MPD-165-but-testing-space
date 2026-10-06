@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e55">
+   <title>Filling Silos 7 and 8 by Using a Glove Box</title>
+   <taskbody><steps>
+         <step><cmd>Select the appropriate glove box unit.  When standing in front of the units:</cmd><info><ul>
+               <li>The right unit handles selenium for silo 7</li>
+               <li>The left unit handles cobalt for silo 8.</li>
+            </ul>
+               <note type="note">
+                  <p>Before using, confirm which unit handles which material.</p>
+               </note>
+               <p>
+                  <fig>
+                     <image href="media/image1.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step><cmd>Place the material container on the platform for the appropriate glove box.</cmd><info><ul>
+               <li>Fasten the bucket using the red strap.</li>
+            </ul>
+               <p>
+                  <fig>
+                     <image href="media/image2.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step><cmd>At the SBS workstation, display the <b>Silofeeding Silo </b>screen for the Minors silos:</cmd><info><ul>
+               <li>Press the Silo Feeding tab.</li>
+               <li>Navigate to the appropriate Silofeeding Silo screen.</li>
+               <li>Select the silo being filled, which should match the position of the container
+                     (silo 7 or 8).  </li>
+            </ul>
+               <note type="note">
+                  <p>There is no operation mode. The filling works if the control power is on.</p>
+               </note>
+               <p>
+                  <fig>
+                     <image href="media/image3.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step><cmd>Turn on the light inside the glove box, if desired.  The switch is on the control panel on the side wall.</cmd><info><fig>
+                  <image href="media/image4.jpg" placement="break" align="center"/>
+               </fig>
+         </info></step>
+         <step><cmd>At control panel #1 on the glove box, push the button for the container size—either 11.25 inches or 13 inches.</cmd><info><ul>
+               <li>The green light for the button will light up when the button is pushed.</li>
+            </ul>
+               <note type="note">
+                  <p>Do not use the red <b>Stop</b> button.</p>
+               </note>
+               <p>
+                  <fig>
+                     <image href="media/image5.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step>
+            <note id="note_tbr_dqg_vcc">
+               <table id="table_qc2_2qg_vcc" outputclass="icontable">
+                  <tgroup cols="2">
+                     <colspec colname="c1" colnum="1" colwidth="1*"/>
+                     <colspec colname="c2" colnum="2" colwidth="1*"/>
+                     <tbody>
+                        <row>
+                           <entry/>
+                           <entry>
+                              <p>Pinch hazard.</p>
+                           </entry>
+                        </row>
+                        <row>
+                           <entry/>
+                           <entry>
+                              <p>Dust hazard.</p>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </note>
+            <cmd/>
+            <info>
+               <p>Raise the container to the glove box.</p>
+               <ul>
+                  <li>Remove the container lid.</li>
+                  <li>Press and hold the <uicontrol>Tilting Mechanism Lift</uicontrol> buttons on
+                     both control panels at the same time. (See the arrows in the image.)</li>
+                  <li>When the end position is reached, the lifting platform automatically
+                     stops.</li>
+                  <li>Release both buttons.</li>
+               </ul>
+               <note type="note" id="note_smn_gqg_vcc">
+                  <p>Two hands are required to lift the container for safety purposes. Make sure to
+                     push the<uicontrol> Lift</uicontrol> button on each control panel, and continue
+                     holding them until the platform reaches its end position and stops.</p>
+               </note>
+               <note type="note" id="note_qyr_gqg_vcc">
+                  <p>if there is a problem, lower the container all the way down, then re-raise
+                     it.</p>
+               </note>
+               <p>
+                  <fig id="fig_mld_cqg_vcc">
+                     <image href="media/image6.jpg" placement="break" align="center"
+                        id="image_nld_cqg_vcc"/>
+                  </fig>
+               </p>
+            </info>
+         </step>
+         <step><cmd>Ensure that the bag inside the container falls into the glove box.</cmd><info><ul>
+               <li>Seal the opening on the unit by pulling on the pre-mounted bag and tying it shut
+                     with a zip tie.</li>
+            </ul>
+               <p>
+                  <fig id="fig_qps_hqg_vcc">
+                     <image href="media/image7.jpg" placement="break" id="image_rps_hqg_vcc"
+                        align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step>
+            <note id="note_axs_wrg_vcc">
+               <table id="table_xlr_xrg_vcc" outputclass="icontable">
+                  <tgroup cols="2">
+                     <colspec colname="c1" colnum="1" colwidth="1*"/>
+                     <colspec colname="c2" colnum="2" colwidth="1*"/>
+                     <tbody>
+                        <row>
+                           <entry/>
+                           <entry>
+                              <p>Pinch hazard.</p>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </note>
+            <cmd/>
+            <info>
+               <p>Lower the empty container.</p>
+               <ul>
+                  <li>Press and hold the <uicontrol>Tilting Mechanism Lower </uicontrol>buttons on
+                     both control panels at the same time. (See the arrows in the image.)</li>
+                  <li>When the lifting platform stops at its fully lowered position, release both
+                     buttons.</li>
+               </ul>
+               <note type="note" id="note_f32_2sg_vcc">
+                  <p>Two hands are required to lower the container for safety purposes. Make sure to
+                     push the<uicontrol> Lower</uicontrol> button on each control panel, and
+                     continue holding them until the platform reaches its lowest position and
+                     stops.</p>
+               </note>
+               <p>
+                  <fig id="fig_jsq_2sg_vcc">
+                     <image href="media/image8.jpg" placement="break" id="image_ksq_2sg_vcc"
+                        align="center"/>
+                  </fig>
+               </p>
+            </info>
+         </step>
+         <step>
+            <note id="note_ryc_sqg_vcc">
+               <table id="table_v1t_sqg_vcc" outputclass="icontable">
+                  <tgroup cols="2">
+                     <colspec colname="c1" colnum="1" colwidth="1*"/>
+                     <colspec colname="c2" colnum="2" colwidth="1*"/>
+                     <tbody>
+                        <row>
+                           <entry/>
+                           <entry>
+                              <p>Have a respirator or PAPR available in case of a cobalt or selenium
+                                 release.</p>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </note>
+            <cmd/>
+            <info>
+               <p>Place your hands into the gloves attached to the box.</p>
+               <ul>
+                  <li>Use the knife inside the glove box to slit the bag open.</li>
+                  <li>Empty the contents from the bag.</li>
+                  <li>Ensure that the bag is empty. </li>
+               </ul>
+               <fig id="fig_efw_brg_vcc">
+                  <image href="media/image9.jpg" placement="break" id="image_ffw_brg_vcc"
+                     align="center"/>
+               </fig>
+            </info>
+         </step>
+         <step><cmd>Dispose of the bag through the side port.</cmd><info><ul>
+               <li>Remove the rubber cover, place the bag through the opening, and replace the rubber cover.</li>
+            </ul>
+         </info></step>
+         <step><cmd>Start the vacuum conveying system to transfer the material in the glove box to the silo.</cmd><info><p>Press the <b>Feeding Silo Start</b> switch on control unit #1.</p>
+               <p>
+                  <fig id="fig_ql2_drg_vcc">
+                     <image href="media/image10.jpg" placement="break" align="center"
+                        id="image_rl2_drg_vcc"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step><cmd>The silo stops filling when:</cmd><info><ul>
+               <li>The<uicontrol> Feeding Silo Stop</uicontrol> button on control box #1 is
+                     pressed.</li>
+               <li>The silo is full or overfull.</li>
+               <li>The silo is blocked.</li>
+            </ul>
+               <note type="note" id="note_wxw_kqg_vcc">
+                  <p>If the filling stops unexpectedly, go to the SDS control screens to determine
+                     the problem, and resolve it.</p>
+               </note>
+               <ul id="ul_qts_3rg_vcc">
+                  <li>If the red failure light is on at the control panel on the side wall, press
+                     the failure <uicontrol>reset</uicontrol> button.</li>
+               </ul>
+         </info></step>
+      </steps></taskbody>
+</task>

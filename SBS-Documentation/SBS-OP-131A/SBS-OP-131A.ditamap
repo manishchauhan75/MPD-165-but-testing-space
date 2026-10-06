@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="SBS-OP-131A" xml:lang="en-us">
+   <title>Pan Mixer Cycles and Operating Values</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2024-01-23"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content" href="SBS-OP-131A_pan_mixer_cycles_and_operating_values_.dita">
+      <topicmeta>
+         <othermeta content="SBS-OP-131A" name="DocumentNumber"/>
+         <othermeta content="2024-01-23" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="SBS-OP-131A_purposeapplication.dita"/>
+      <topicref href="SBS-OP-131A_ppe_required.dita"/>
+      <topicref href="SBS-OP-131A_safety_hazards.dita"/>
+      <topicref href="SBS-OP-131A_respirable_crystalline_silica.dita"/>
+      <topicref href="SBS-OP-131A_safety_controls.dita"/>
+      <topicref href="SBS-OP-131A_equipment_needed.dita"/>
+      <topicref href="SBS-OP-131A_comments.dita"/>
+      <topicref href="SBS-OP-131A_related_resources.dita"/>
+      <topicref href="SBS-OP-131A_mixer_cycles_and_operating_values.dita"/>
+      <topicref href="SBS-OP-131A_approval.dita"/>
+      <topicref href="SBS-OP-131A_revision_history.dita"/>
+   </topicref>
+</map>

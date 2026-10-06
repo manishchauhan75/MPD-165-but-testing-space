@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="SBS-OP-102" xml:lang="en-us">
+   <title>Navigating the SCADA Operating Screens</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2024-02-13"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content" href="SBS-OP-102_navigating_the_scada_operating_screens_.dita">
+      <topicmeta>
+         <othermeta content="SBS-OP-102" name="DocumentNumber"/>
+         <othermeta content="2024-02-13" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="SBS-OP-102_purposeapplication.dita"/>
+      <topicref href="SBS-OP-102_ppe_required.dita"/>
+      <topicref href="SBS-OP-102_safety_hazards.dita"/>
+      <topicref href="SBS-OP-102_respirable_crystalline_silica.dita"/>
+      <topicref href="SBS-OP-102_safety_controls.dita"/>
+      <topicref href="SBS-OP-102_equipment_needed.dita"/>
+      <topicref href="SBS-OP-102_comments.dita"/>
+      <topicref href="SBS-OP-102_related_resources.dita"/>
+      <topicref href="SBS-OP-102_basic_layout_of_each_screen__.dita">
+         <topicref href="SBS-OP-102_overview_area_.dita"/>
+         <topicref href="SBS-OP-102_button_bar.dita"/>
+         <topicref href="SBS-OP-102_working_area_.dita"/>
+         <topicref href="SBS-OP-102_faceplates.dita"/>
+      </topicref>
+      <topicref href="SBS-OP-102_silo_feeding_screens.dita"/>
+      <topicref href="SBS-OP-102_batch_system_screens.dita"/>
+      <topicref href="SBS-OP-102_batch_cullet_weighing_screens.dita"/>
+      <topicref href="SBS-OP-102_maintenance_screens.dita"/>
+      <topicref href="SBS-OP-102_approval.dita"/>
+      <topicref href="SBS-OP-102_revision_history.dita"/>
+   </topicref>
+</map>

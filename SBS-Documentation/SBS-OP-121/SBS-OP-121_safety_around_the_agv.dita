@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e77">
+   <title>Safety Around the AGV</title>
+   <taskbody><steps>
+         <step>
+            <note>
+               <table outputclass="icontable">
+                  <tgroup cols="2">
+                     <colspec colname="c1" colnum="1" colwidth="1*"/>
+                     <colspec colname="c2" colnum="2" colwidth="1*"/>
+                     <tbody>
+                        <row>
+                           <entry/>
+                           <entry>
+                              <p>Electric Shock Hazard</p>
+                           </entry>
+                        </row>
+                        <row>
+                           <entry/>
+                           <entry>
+                              <p>Hot Surfaces </p>
+                           </entry>
+                        </row>
+                        <row>
+                           <entry/>
+                           <entry>
+                              <p>Battery and Materials Inside Fence Can Be Toxic </p>
+                           </entry>
+                        </row>
+                        <row>
+                           <entry/>
+                           <entry>
+                              <p><b>Avoid injury during startup. </b></p>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </note>
+            <cmd/>
+         </step>
+         <step><cmd>Only authorized and trained personnel can enter the fenced area and work on the AGV.</cmd></step>
+         <step><cmd>Personnel must wear the appropriate PPE around the AGV.</cmd></step>
+         <step><cmd>The AGV must be stopped before personnel can enter the fenced area where the AGV operates.</cmd></step>
+         <step><cmd>Observe all plant and equipment safety requirements.</cmd></step>
+         <step><cmd>Turn the AGV off if a safety or operational issue occurs.  Open the door to the fenced area to break the circuit.</cmd><info><note type="note">
+               <p>The AGV has an <b>E-Stop</b> button on the left side, with an indicator light.</p>
+            </note>
+               <p>
+                  <fig>
+                     <image href="media/image1.jpg" placement="break" align="center"/>
+                  </fig>
+               </p>
+         </info></step>
+         <step><cmd>Turn off power to the AGV before working on it.  Then lockout-tagout-verify the power.</cmd></step>
+         <step><cmd>When working on high-voltage assemblies:</cmd><info><ul>
+               <li>Ground the supply cable after disconnecting the voltage.</li>
+               <li>Short-circuit the components, e.g., capacitors by means of a ground rod.</li>
+            </ul>
+         </info></step>
+         <step><cmd>Only install original or Hegla-approved spare parts.</cmd></step>
+      </steps></taskbody>
+</task>

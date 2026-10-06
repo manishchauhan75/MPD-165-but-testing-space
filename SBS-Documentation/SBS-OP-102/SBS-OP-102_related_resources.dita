@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e54">
+   <title>Related Resources</title>
+   <conbody>
+      <ul>
+         <li><xref href="../SBS-OP-131B/SBS-OP-131B.ditamap#SBS-OP-131B" format="ditamap"
+               >SBS-OP-003</xref> Alarm Message System</li>
+         <li><xref href="../SBS-OP-109/SBS-OP-109_using_a_glove_box_to_fill_the_minors_silos_.dita"
+               >SBS-OP-006</xref> Operating the Integration System</li>
+         <li><xref href="../SBS-OP-121/SBS-OP-121.ditamap#SBS-OP-121" format="ditamap"
+               >SBS-OP-023</xref> Using the SCADA AGV Screen</li>
+      </ul>
+   </conbody>
+</concept>

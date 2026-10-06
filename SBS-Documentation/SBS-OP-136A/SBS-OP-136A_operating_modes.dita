@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e117">
+   <title>Operating Modes</title>
+   <conbody>
+      <p>Automatic mode is the default mode for operation. In automatic mode, all the operating sequences of the metering conveyor scale run automatically. All current data, messages, errors and other information are displayed via the user interface.</p>
+      <p>The metering container scale can be operated manually for maintenance purposes by using the user interface at the control cabinet. This operating mode is intended for emergencies and for maintenance and repair work. There are no locking mechanisms in manual mode.</p>
+   </conbody>
+</concept>

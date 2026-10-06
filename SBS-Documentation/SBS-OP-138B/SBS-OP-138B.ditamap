@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="SBS-OP-138B" xml:lang="en-us">
+   <title>Operating the Belt Conveyor</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2024-02-15"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content" href="SBS-OP-138B_operating_the_belt_conveyor.dita">
+      <topicmeta>
+         <othermeta content="SBS-OP-138B" name="DocumentNumber"/>
+         <othermeta content="2024-02-15" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="SBS-OP-138B_purposeapplication.dita"/>
+      <topicref href="SBS-OP-138B_ppe_required.dita"/>
+      <topicref href="SBS-OP-138B_safety_hazard.dita"/>
+      <topicref href="SBS-OP-138B_respirable_crystalline_silica.dita"/>
+      <topicref href="SBS-OP-138B_safety_controls.dita"/>
+      <topicref href="SBS-OP-138B_equipment_needed.dita"/>
+      <topicref href="SBS-OP-138B_comments.dita"/>
+      <topicref href="SBS-OP-138B_related_resources.dita"/>
+      <topicref href="SBS-OP-138B_safety_mechanisms_and_controls.dita"/>
+      <topicref href="SBS-OP-138B__operating_the_belt_conveyor.dita"/>
+      <topicref href="SBS-OP-138B_approval.dita"/>
+      <topicref href="SBS-OP-138B_revision_history.dita"/>
+   </topicref>
+</map>

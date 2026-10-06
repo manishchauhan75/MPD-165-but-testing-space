@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e8">
+   <title>Purpose and Application</title>
+   <conbody>
+    <section id="section_mkt_4wf_xcc">
+      <title>Purpose</title>
+      <p>To define a work instruction for proper setup of the MCF on Multi Station 4.</p>
+    </section>
+    <section id="section_w41_pwf_xcc">
+      <title>Application</title>
+      <p>This work instruction applies to all O-I manufacturing facilities</p>
+    </section>
+  </conbody>
+</concept>

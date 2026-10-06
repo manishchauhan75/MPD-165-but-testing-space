@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e25">
+   <title>Instructions</title>
+   <taskbody><steps>
+         <step><cmd>Before starting the work instruction activity, perform the following steps:</cmd>
+            <substeps id="substeps_z4p_d3t_vcc">
+               <substep>
+                  <cmd>Do not begin these tasks without confirmation that personnel directly
+                     involved have completed the required training associated with the work
+                     instruction activity and have reviewed this document.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Gather necessary tools and equipment as identified below in the Equipment
+                     Section.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Wear and use additional Personal Protective Equipment (PPE) and safety
+                     equipment required for this specific work instruction.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Obey all applicable safety requirements and procedures.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>Prerequisite:</cmd>
+            <substeps id="substeps_thg_g3t_vcc">
+               <substep>
+                  <cmd>Prior to this work instruction, ensure container handling was properly set up
+                     according to INS-03-012 Container Handling – Tiama – MCAL 4.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Prepare a setup container by applying a 0.76-1.27 mm (0.030 - 0.050) inch
+                     black dot vertically centered on the sidewall of the container.Prepare a setup
+                     container by applying a 0.76-1.27 mm (0.030 - 0.050) inch black dot vertically
+                     centered on the sidewall of the container.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>For proper setup, perform the following steps:</cmd>
+            <substeps id="substeps_mcx_k3t_vcc">
+               <substep>
+                  <cmd>The HMI screen of the MCAL 4 is located on the front right door of the
+                     machine.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_ddr_n3t_vcc">
+                           <image href="media/image1.jpg" placement="break" id="image_kcg_43t_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Stop the flow of containers into the machine using whatever container spacing
+                     device is installed prior to the machine.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_drq_43t_vcc">
+                           <image href="media/image2.jpg" placement="break" id="image_ujl_p3t_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step><cmd>For proper setup, perform the following steps:</cmd>
+            <substeps id="substeps_jbr_njt_vcc">
+               <substep>
+                  <cmd>From the main screen, click on the <uicontrol>Log in</uicontrol> button and
+                     login to the software using job change a password.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Open the <b>Article - Management</b> – this contains a list of all saved
+                     jobs.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Choose an existing job, or a current job to be modified or a new job.</cmd>
+                  <info>
+                     <ol id="ol_dfw_qjt_vcc">
+                        <li>Click <uicontrol>New</uicontrol> > Enter Name, Neck Diameter, body
+                           diameter, and height.</li>
+                        <li>Ensure the body diameter and height are correct. (Recommend adding 5mm
+                           for each measurement).</li>
+                        <li>Load the new job file.</li>
+                     </ol>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>You can also open an existing job file and save as a new job, then adjust the
+                     settings and parameters for the new job.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Exit the Article menu.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Open <uicontrol>sidewall</uicontrol> from the Detections Menu.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_oh5_mpt_vcc">
+                           <image href="media/image3.jpg" placement="break" id="image_rvf_3qt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press <uicontrol>Optical Settings</uicontrol> from the Adjustments
+                     Menu.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_ynj_npt_vcc">
+                           <image href="media/image4.jpg" placement="break" id="image_vsw_pqt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> Select <uicontrol>Body</uicontrol>.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_hkc_4pt_vcc">
+                           <image href="media/image5.jpg" placement="break" id="image_gx3_rqt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Place a container on the conveyor in front of the camera’s flashing light
+                     source.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_ax5_4pt_vcc">
+                           <image href="media/image6.jpg" placement="break" id="image_bzy_sqt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Adjust the brightness of the body camera using the oscilloscope to
+                     300µs.</cmd>
+                  <info>
+                     <ol id="ol_zd3_zjt_vcc">
+                        <li>Individually adjust each LED line (1 to 20) in order to set the blue
+                           vertical line as close as possible to the middle of the two 50% and 75%
+                           lines. </li>
+                     </ol>
+                  </info>
+                  <info>
+                     <p>
+                        <fig id="fig_zm1_qpt_vcc">
+                           <image href="media/image26.jpg.png" placement="break"
+                              id="image_rnc_btt_vcc" align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Click on the <uicontrol>Shoulder</uicontrol> button.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_zhz_qpt_vcc">
+                           <image href="media/image7.jpg" placement="break" id="image_gtf_mtt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Adjust the height of the cameras using the adjustment wheel so the container
+                     is displayed in the center of the image.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_t43_spt_vcc">
+                           <image href="media/image8.jpg" placement="break" id="image_aqm_ntt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Enter the <uicontrol>camera height</uicontrol> number that is displayed on
+                     the adjustment wheel from the above step.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_lsf_tpt_vcc">
+                           <image href="media/image9.jpg" placement="break" id="image_umb_ptt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Open <uicontrol>Distances</uicontrol> from the Adjustments Menu.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_xp5_tpt_vcc">
+                           <image href="media/image10.jpg" placement="break" id="image_x1b_rtt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Close the doors of the machine and start the conveyor.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Pass a container upstream to the spacer to pass through the machine.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_nzb_wpt_vcc">
+                           <image href="media/image11.jpg" placement="break" id="image_t1j_stt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Adjust the centering by moving the center blue vertical lines in the middle
+                     of the container in views #2 and #5.</cmd>
+                  <info>
+                     <ol id="ol_gq2_gkt_vcc">
+                        <li>The container must be centered inside each image.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_pch_xpt_vcc">
+                           <image href="media/image27.jpg.png" placement="break"
+                              id="image_txf_ytt_vcc" align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Continue to pass containers and adjust until the containers are centered in
+                     views #2 and #5.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Adjust the number of gauges to 5.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_rxg_ypt_vcc">
+                           <image href="media/image12.jpg" placement="break" id="image_xkp_ztt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Group all the horizontal gauges of all the views onto the neck of the article
+                     with the aid of the mouse or the screen.</cmd>
+               </substep>
+               <substep>
+                  <cmd> Repeat until all horizontal gauges are in line with the container. </cmd>
+                  <info>
+                     <ol id="ol_ag4_mkt_vcc">
+                        <li>Check the color of the horizontal gauges (they should be green) and the
+                           correct positioning of the blue dots on the edges of the article.</li>
+                        <li>If gauges are unable to become aligned, repeat the optical setup.</li>
+                     </ol>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step><cmd>For proper zone setup, perform the following steps:</cmd>
+            <substeps id="substeps_qw1_k5t_vcc">
+               <substep>
+                  <cmd>Open the Zones and Defects from the Adjustments Menu.</cmd>
+                  <info>
+                     <ol id="ol_gts_m5t_vcc">
+                        <li>The left half of the screen will have sensitivity parameters, while the
+                           right will show the image.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_g5y_n5t_vcc">
+                           <image href="media/image13.jpg" placement="break" id="image_jkp_syt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> Select the <uicontrol>drawing</uicontrol> icon (7th icon from the top) to
+                     create zones.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_oqh_p5t_vcc">
+                           <image href="media/image14.jpg" placement="break" id="image_rgh_5yt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Select <uicontrol>Body</uicontrol>.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_twl_q5t_vcc">
+                           <image href="media/image15.jpg" placement="break" id="image_ih4_vyt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Move the horizontal lines to the top of the finish and on the base under the
+                     punt.</cmd>
+               </substep>
+               <substep>
+                  <cmd>The lower line must be positioned just at the lower inspect-able point of the
+                     bottom (not above the punt).</cmd>
+               </substep>
+               <substep>
+                  <cmd>The upper line must include the totality of the finish. Otherwise, some parts
+                     of the bottle are not inspected.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_s1n_t5t_vcc">
+                           <image href="media/image16.jpg" placement="break" id="image_pm2_xyt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>Find Outline</uicontrol> icon and select ok to
+                     all.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_czs_55t_vcc">
+                           <image href="media/image17.jpg" placement="break" id="image_sk4_1zt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> Review and adjust zones for each camera and adjust as needed.</cmd>
+                  <info>
+                     <ol id="ol_dy4_w5t_vcc">
+                        <li>A box appears as zone “0”. This must entrap the entire container.</li>
+                        <li>Can have up to 7 adjustment zones.</li>
+                        <li>Always use a minimum of 2 inspection zones.</li>
+                        <li>The zone with the highest number will be the active zone.<ol
+                              id="ol_ktr_1vt_vcc">
+                              <li>The active zone will turn red when selected.</li>
+                           </ol></li>
+                     </ol>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>+</uicontrol> icon to add zones and select the location
+                     of the zones.</cmd>
+                  <info>
+                     <ol id="ol_n52_gvt_vcc">
+                        <li>Any area outside the zone will not be inspected.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_gr3_hvt_vcc">
+                           <image href="media/image18.jpg" placement="break" id="image_yyr_tzt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Select <uicontrol>Finish</uicontrol> and adjust the size of the zone to
+                     include the finish area.</cmd>
+                  <info>
+                     <ol id="ol_qms_jvt_vcc">
+                        <li>A dark blue rectangle is displayed.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_zp5_hxt_vcc">
+                           <image href="media/image19.jpg" placement="break" id="image_cvy_wzt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Select <uicontrol>Bottom</uicontrol> and adjust the size of the zone to
+                     include the bottom area.</cmd>
+                  <info>
+                     <ol id="ol_khl_jxt_vcc">
+                        <li>A dark blue rectangle is displayed.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_gyk_kxt_vcc">
+                           <image href="media/image20.jpg" placement="break" id="image_ycv_yzt_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Select the <uicontrol>Shoulder</uicontrol>.</cmd>
+                  <info>
+                     <ol id="ol_v22_hyt_vcc">
+                        <li>Repeat creating zones as with finish and bottom.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_rls_3yt_vcc">
+                           <image href="media/image21.jpg" placement="break" id="image_n5s_115_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Repeat for any additional zones to ensure the entire container is inspected
+                     properly.</cmd>
+                  <info>
+                     <ol id="ol_ktf_kyt_vcc">
+                        <li>Extra zones may be needed for engravings, punt, container shape, and
+                           finish.</li>
+                     </ol>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>Copy</uicontrol> Icon to copy zones to all
+                     cameras.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_py1_myt_vcc">
+                           <image href="media/image28.jpg.png" placement="break"
+                              id="image_rkt_h15_vcc" align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> Switch from one camera to another using the images at the bottom of the
+                     screen and adjust zones as needed for each camera.</cmd>
+                  <info>
+                     <ol id="ol_om1_pyt_vcc">
+                        <li> Select zone 0 to move all zones within.</li>
+                        <li>Select individual zones to move them.</li>
+                     </ol>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> Deselect the drawing icon to exit zones.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>To set up reject parameter settings, perform the following steps:</cmd>
+            <substeps id="substeps_x3l_415_vcc">
+               <substep>
+                  <cmd>Select each image at the bottom of the screen to view what defects (if any)
+                     the machine detected.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_lsc_q15_vcc">
+                           <image href="media/image22.jpg" placement="break" id="image_uzy_q15_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> Choose the specific zone parameters according to MSDR INS-07-033 Inspection
+                     Device Setup Parameters for Tiama Equipment.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_e52_t15_vcc">
+                           <image href="media/image23.jpg" placement="break" id="image_ozz_t15_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>To put the machine into operation mode, press the <uicontrol>operation
+                        mode</uicontrol> button.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Pass a setup sample through the machine to trap four images to confirm proper
+                     rejection.</cmd>
+                  <info>
+                     <ol id="ol_o2q_w15_vcc">
+                        <li>A setup container could be either a good or defect container.</li>
+                        <li>If multiple machines are present on a production line, the same setup
+                           container must be used for each machine to ensure consistency across
+                           machines.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_sm4_y15_vcc">
+                           <image href="media/image24.jpg" placement="break" id="image_zt2_z15_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> Restart the container spacer.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_n5f_cb5_vcc">
+                           <image href="media/image25.jpg" placement="break" id="image_on3_db5_vcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Review inspection results during production and repeat procedure as necessary
+                     to ensure proper rejection, minimal commercial ware loss, and proper camera
+                     balance.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>Upon completion of tasks, perform the following steps:</cmd>
+            <substeps id="substeps_rnz_fb5_vcc">
+               <substep>
+                  <cmd>Perform basic housekeeping duties. Clean up the work space, tools and
+                     equipment, dispose of trash, put tools and equipment in assigned area.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Notify appropriate personnel that the work instruction activity has been
+                     completed.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Record and report findings and results.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Follow appropriate instructions for notification of findings and results
+                     relating to specifications, targets and/or reaction limits.</cmd>
+               </substep>
+            </substeps></step>
+      </steps></taskbody>
+</task>

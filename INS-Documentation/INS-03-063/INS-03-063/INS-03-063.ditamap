@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="INS-03-063" xml:lang="en-us">
+   <title>Device Setup - DimPix - MCAL 4</title>
+   <topicmeta>
+      <critdates>
+         <revised modified=" 2017-07-21"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content" href="INS-03-063_device_setup_-_dimpix_-_mcal_4.dita">
+      <topicmeta>
+         <othermeta content="INS-03-063" name="DocumentNumber"/>
+         <othermeta content="INS-03-063" name=" 2017-07-21"/>
+      </topicmeta>
+      <topicref href="INS-03-063_purpose_and_application.dita"/>
+      <topicref href="INS-03-063_safety.dita"/>
+      <topicref href="INS-03-063_instructions.dita"/>
+      <topicref href="INS-03-063_required_training.dita"/>
+      <topicref href="INS-03-063_approval.dita"/>
+      <topicref href="INS-03-063_revision_history.dita"/>
+   </topicref>
+</map>

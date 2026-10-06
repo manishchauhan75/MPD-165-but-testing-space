@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e64">
+   <title>Related Resources</title>
+   <conbody>
+      <ul>
+         <li>SBS-ET-121 Troubleshooting the AGV</li>
+         <li>SBS-MR-121 AGV General Maintenance </li>
+         <li>SBS-MR-122 Changing the Oil in the AGV Gear Unit</li>
+      </ul>
+   </conbody>
+</concept>

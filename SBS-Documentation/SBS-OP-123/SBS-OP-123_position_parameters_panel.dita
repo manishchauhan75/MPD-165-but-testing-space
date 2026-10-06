@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e187">
+   <title>Position Parameters Panel</title>
+   <conbody>
+      <p>When the Position Parameters button is pressed on the popup window, two parameters can be set.</p>
+      <ul>
+         <li>The operator can “block” or “free” the position by pressing the appropriate button.</li>
+         <li>The “stay time” parameter allows the operator to enter a time for the maximum stay of
+            the AGV at this position. If the AGV needs longer at this position than the defined
+            maximum stay time, a warning message is displayed.</li>
+      </ul>
+      <p>
+         <fig id="fig_t3h_lyg_vcc">
+            <image href="media/image14.jpg" placement="break" id="image_kqj_myg_vcc" align="center"
+            />
+         </fig>
+      </p>
+   </conbody>
+</concept>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e39">
+   <title>Comments</title>
+   <conbody>
+      <p>Before starting work:</p>
+      <ul>
+         <li>Read this document thoroughly.  </li>
+         <li>Complete the required training.</li>
+         <li>Wear the required PPE. </li>
+      </ul>
+      <note type="note" id="note_pzp_spf_vcc">
+         <p><b>This SOP uses Streator screens and images.</b>
+         </p>
+      </note>
+   </conbody>
+</concept>

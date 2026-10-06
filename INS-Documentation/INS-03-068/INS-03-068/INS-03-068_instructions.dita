@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e24">
+   <title>Instructions</title>
+   <taskbody><steps>
+         <step><cmd>Before starting the work instruction activity, perform the following steps:</cmd>
+            <substeps id="substeps_cj4_qkf_xcc">
+               <substep>
+                  <cmd>Do not begin these tasks without confirmation that personnel directly
+                     involved have completed the required training associated with the work
+                     instruction activity and have reviewed this document.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Gather necessary tools and equipment as identified below in the Equipment
+                     Section.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Wear and use additional Personal Protective Equipment (PPE) and safety
+                     equipment required for this specific work instruction.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Obey all applicable safety requirements and procedures.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>Before setup, perform the following steps:</cmd>
+            <substeps id="substeps_chf_skf_xcc">
+               <substep>
+                  <cmd>Container handling must be set up prior to this work instruction.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Obtain a container with an alphanumeric number on the base.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>For proper setup, perform the following steps:</cmd>
+            <substeps id="substeps_hzh_wkf_xcc">
+               <substep>
+                  <cmd>The HMI screen of the Multi 4 is located on the front right door of the
+                     machine.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_ty3_zkf_xcc">
+                           <image href="media/image1.jpg" placement="break" id="image_bnw_tlf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Log in with the password if required.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Click on <uicontrol>LNMC</uicontrol> on the User interface screen.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_dym_blf_xcc">
+                           <image href="media/image2.jpg" placement="break" id="image_yzn_vlf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> Click <uicontrol>Adjustment – Optical</uicontrol> Setup.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_ihz_clf_xcc">
+                           <image href="media/image3.jpg" placement="break" id="image_tnv_wlf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> Select proper lens according to the base diameter and height of the
+                     container using: MSDR EN-INS-07-038 Parts List.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Press the <uicontrol>Permanent</uicontrol> button so the light source will
+                     flash at a fixed frequency.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_hbx_ylf_xcc">
+                           <image href="media/image4.jpg" placement="break" id="image_vwy_zlf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Use back and forth switch on the front of the machine to move the container
+                     under the camera. View the setup screen to center the container.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_ynr_hlf_xcc">
+                           <image href="media/image5.jpg" placement="break" id="image_gfj_bmf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>If an existing job (article) was loaded press
+                        <uicontrol>Parameters</uicontrol> on the setup screen. For new containers
+                     skip step.</cmd>
+                  <info>
+                     <ol id="ol_yrx_3lf_xcc">
+                        <li>Adjust camera and light source height according to parameters
+                           screen.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_kkq_jlf_xcc">
+                           <image href="media/image6.jpg" placement="break" id="image_fbz_cmf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>For a new container move the camera close to the finish by using the
+                     adjustment crank</cmd>
+                  <info>
+                     <ol id="ol_nsc_llf_xcc">
+                        <li>For a narrow neck – set camera approximately 5 mm above the finish</li>
+                        <li>For a wide mouth – Adjust height to get a good picture on the screen so
+                           the container base that fills the whole screen.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_axm_mlf_xcc">
+                           <image href="media/image8.jpg" placement="break" align="center"
+                              id="image_eht_ymf_xcc"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Record Camera and Light Source Height</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_q4p_nlf_xcc">
+                           <image href="media/image30.jpg.png" placement="break"
+                              id="image_mlb_jpz_xcc" align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Adjust camera aperture and focus to achieve a sharp clear picture with a
+                     white background.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_hb1_plf_xcc">
+                           <image href="media/image8.jpg" placement="break" id="image_yn4_nmf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd> Open cover on the light source. Adjust aperture (diaphragm) so that the
+                     edges of the alphanumeric mould number are sharp and clear.</cmd>
+                  <info>
+                     <ol id="ol_yj3_qlf_xcc">
+                        <li>Fine tune the brightness with the slider on the screen if necessary
+                           until you have strong contrast with a white background.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_wbv_rlf_xcc">
+                           <image href="media/image9.jpg" placement="break" id="image_lt1_pmf_xcc"
+                              align="center"/>
+                           <image href="media/image10.jpg" placement="break" id="image_iqq_qmf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press <uicontrol>NEXT</uicontrol> then the green check box to exit.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>To set distance settings, perform the following steps:</cmd>
+            <substeps id="substeps_i2g_jnf_xcc">
+               <substep>
+                  <cmd>Click on <uicontrol>Adjust - Distances</uicontrol></cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_z2k_knf_xcc">
+                           <image href="media/image11.jpg" placement="break" id="image_ebw_f4f_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Confirm LNMC photocell by jogging container back and forth in front of
+                     sensors. Adjust position and/or sensitivities as required</cmd>
+               </substep>
+               <substep>
+                  <cmd>Close doors</cmd>
+               </substep>
+               <substep>
+                  <cmd>Change machine to Automatic Mode using the switch on the front of the
+                     machine</cmd>
+               </substep>
+               <substep>
+                  <cmd>Turn on conveyor – Using the Reset and Start buttons.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Pass a commercial container through the machine</cmd>
+                  <info>
+                     <ol id="ol_oxg_14f_xcc">
+                        <li>Use slider to adjust location of image on the screen</li>
+                     </ol>
+                     <p>
+                        <image href="media/image12.jpg" placement="break" id="image_c5w_g4f_xcc"
+                           align="center"/>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Pass another commercial container through the machine.</cmd>
+                  <info>
+                     <ol id="ol_aqt_c4f_xcc">
+                        <li>Ensure the image displayed is set to continuous.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_flk_d4f_xcc">
+                           <image href="media/image13.jpg" placement="break" id="image_grc_34f_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Repeat process until container image is centered.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_nx3_24f_xcc">
+                           <image href="media/image14.jpg" placement="break" id="image_jgr_j4f_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press <uicontrol>NEXT</uicontrol> then the green check box to save and
+                     exit.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>To set zone adjustments, perform the following steps:</cmd>
+            <substeps id="substeps_atf_m4f_xcc">
+               <substep>
+                  <cmd>Click <uicontrol>Zone drawing</uicontrol> icon to select drawing mode.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_s5w_44f_xcc">
+                           <image href="media/image15.jpg" placement="break" id="image_bjb_z4f_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Move the zone (blue square) to include the alphanumeric mould number using
+                     arrows. Be sure the box will cover the whole number no matter the orientation
+                     of the container.</cmd>
+                  <info>
+                     <ol id="ol_gld_54f_xcc">
+                        <li>Select extended zone check box if larger zone is required</li>
+                        <li>Pre-Localization may be used for non-centered codes. (Need to select
+                           Location for the Pre-Localization option)</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_zsx_v4f_xcc">
+                           <image href="media/image16.jpg" placement="break" id="image_bkv_z4f_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Click <uicontrol>drawing</uicontrol> icon to accept the settings</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>To define engraving size, perform the following steps:</cmd>
+            <substeps id="substeps_cfq_bpf_xcc">
+               <substep>
+                  <cmd>Click <uicontrol>Dimension</uicontrol> in the Recognition parameters box at
+                     the top left of the screen.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_syz_cpf_xcc">
+                           <image href="media/image17.jpg" placement="break" id="image_mws_ppf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>In the lower right-hand corner of the setup screen, the mould number will be
+                     visible. Move Red “88” shaped pattern over mould number by using arrow
+                     buttons.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_j1w_hpf_xcc">
+                           <image href="media/image18.jpg" placement="break" id="image_usy_qpf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Adjust the size and thickness of the 88 pattern to match the overall size of
+                     the code.</cmd>
+                  <info>
+                     <ol id="ol_cyg_jpf_xcc">
+                        <li>The code may auto-rotate to match 88 pattern.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_otx_jpf_xcc">
+                           <image href="media/image19.jpg" placement="break" id="image_gm1_spf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>If necessary, rotate the 88 pattern to match image by using Rotation
+                     pushbutton. </cmd>
+                  <info>
+                     <ol id="ol_ecs_mpf_xcc">
+                        <li>Readjust zone position with arrows pushbutton.<ol id="ol_nc3_npf_xcc">
+                              <li>The top left corner of 88 pattern should align with top left
+                                 corner of the picture of the number</li>
+                           </ol></li>
+                     </ol>
+                     <p>
+                        <fig id="fig_ogh_4pf_xcc">
+                           <image href="media/image20.jpg" placement="break" id="image_zy4_tpf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step><cmd>To define localization of the engraving, perform the following steps:</cmd>
+            <substeps id="substeps_bls_xpf_xcc">
+               <substep>
+                  <cmd>Click <uicontrol>Location</uicontrol> in the Recognition parameters box at
+                     the top left of the screen.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_prm_ypf_xcc">
+                           <image href="media/image21.jpg" placement="break" id="image_jzw_gqf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>To perform localization (orientation) setup:</cmd>
+                  <info>
+                     <ol id="ol_e3d_1qf_xcc">
+                        <li>A Red T-shape will be visible in the lower right corner of the setup
+                           screen within the image of the mould number.</li>
+                        <li>If auto localization is not successful unselect Loc. Auto. Adjust
+                           parameters manually.<ol id="ol_svt_bqf_xcc">
+                              <li>Adjust Localization Threshold for best contrast between mould
+                                 number and background.</li>
+                              <li>Typically the decision threshold is set to 10. This adjusts the
+                                 threshold between first and second probable reading for each digit.
+                                 If probability reading is lower than the threshold the cavity
+                                 number will be invalid (00).</li>
+                              <li>Typically Edge Thickness is between 3 and 5. This should
+                                 correspond to the edge thickness of the engraving. This should be
+                                 approximately the same width as the white area of the mould
+                                 number.</li>
+                              <li>Hole Dimension – adjust the hole size until one of the red lines
+                                 just touches the white pixels.</li>
+                           </ol></li>
+                     </ol>
+                     <p>
+                        <fig id="fig_ukv_fqf_xcc">
+                           <image href="media/image22.jpg" placement="break" id="image_ahr_3qf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step><cmd>To set up mould number reading, perform the following steps:</cmd>
+            <substeps id="substeps_gx2_lqf_xcc">
+               <substep>
+                  <cmd>Click <uicontrol>Reading</uicontrol> in the Recognition parameters box at the
+                     top left of the screen.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_c5b_nqf_xcc">
+                           <image href="media/image23.jpg" placement="break" id="image_xvc_2rf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>To perform the reading setup:</cmd>
+                  <info>
+                     <ol id="ol_ktn_pqf_xcc">
+                        <li>Adjust the reading threshold for best contrast between mould number and
+                           background</li>
+                        <li>Typically the decision control is set to 10. This adjust the threshold
+                           between first and second probable reading for each digit. If probability
+                           reading is lower than the threshold the cavity number will be invalid
+                           (00).</li>
+                        <li>Border Thickness refers to the thickness of the red rectangles. Adjust
+                           until the thickness of the rectangles are approximately the same as the
+                           thickness of the engraving white lines.</li>
+                        <li>Adjust Hole Dimension to the center of the green cross in the image.
+                           Enlarge the green cross so that the “hole” in the middle of the green
+                           cross is as large as it can be without touching any white pixels.</li>
+                        <li>MSC code - V1 or V2 </li>
+                     </ol>
+                     <p>
+                        <fig id="fig_g2w_sqf_xcc">
+                           <image href="media/image24.jpg" placement="break" id="image_ksc_frf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>View Probabilities and review table on the bottom of the screen</cmd>
+                  <info>
+                     <ol id="ol_sh2_5qf_xcc">
+                        <li>Machine attempts all possible numbers in the image compared to the red
+                           rectangles and the green cross</li>
+                        <li>Correct number readings should be on top of the chart.</li>
+                        <li>Adjust settings to achieve the correct reading with the highest
+                           probability.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_zqd_wqf_xcc">
+                           <image href="media/image25.jpg" placement="break" id="image_c1r_grf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press <uicontrol>Adjust>Apply </uicontrol>to save changes</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_cjb_xqf_xcc">
+                           <image href="media/image26.jpg" placement="break" id="image_kwm_hrf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Run multiple containers, analyze readings results and repeat adjustment
+                     procedure as required.</cmd>
+                  <info>
+                     <ol id="ol_p4m_yqf_xcc">
+                        <li>Ensure display mode is set to continuous.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_mhl_zqf_xcc">
+                           <image href="media/image27.jpg" placement="break" id="image_y1v_3rf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Press <uicontrol>Adjust>Apply</uicontrol> to save changes</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>To confirm proper operation, perform the following steps:</cmd>
+            <substeps id="substeps_rgm_qrf_xcc">
+               <substep>
+                  <cmd>Return to the Operation screen and Log out</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_ep2_rrf_xcc">
+                           <image href="media/image28.jpg" placement="break" id="image_ylw_trf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Perform CID validation test.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Monitor reading rate during production and adjust settings as required.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_svf_trf_xcc">
+                           <image href="media/image29.jpg" placement="break" id="image_trn_5rf_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step><cmd>Upon completion of tasks, perform the following steps:</cmd>
+            <substeps id="substeps_zq5_vrf_xcc">
+               <substep>
+                  <cmd>Perform basic housekeeping duties. Clean up the work space, tools and
+                     equipment, dispose of trash, put tools and equipment in assigned area.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Notify appropriate personnel that the work instruction activity has been
+                     completed.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Record and report findings and results.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Follow appropriate instructions for notification of findings and results
+                     relating to specifications, targets and/or reaction limits.</cmd>
+               </substep>
+            </substeps></step>
+      </steps></taskbody>
+</task>

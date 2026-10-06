@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="SBS-OP-109" xml:lang="en-us">
+   <title>Using a Glove Box to Fill the Minors Silos</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2024-02-15"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content"
+             href="SBS-OP-109_using_a_glove_box_to_fill_the_minors_silos_.dita">
+      <topicmeta>
+         <othermeta content="SBS-OP-109" name="DocumentNumber"/>
+         <othermeta content="2024-02-15" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="SBS-OP-109_purposeapplication.dita"/>
+      <topicref href="SBS-OP-109_ppe_required.dita"/>
+      <topicref href="SBS-OP-109_safety_hazards.dita"/>
+      <topicref href="SBS-OP-109_safety_controls.dita"/>
+      <topicref href="SBS-OP-109_equipment_needed.dita"/>
+      <topicref href="SBS-OP-109_comments.dita"/>
+      <topicref href="SBS-OP-109_related_resources.dita"/>
+      <topicref href="SBS-OP-109_filling_silos_7_and_8_by_using_a_glove_box.dita"/>
+      <topicref href="SBS-OP-109_approval.dita"/>
+      <topicref href="SBS-OP-109_revision_history.dita"/>
+   </topicref>
+</map>

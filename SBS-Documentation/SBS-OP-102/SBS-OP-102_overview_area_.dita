@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e71">
+   <title>Overview Area</title>
+   <conbody>
+      <p>The top section of the screen provides the operator with an overview of the entire batch
+         plant that for monitoring and detection of problems. The image below explains the purpose
+         of each of these buttons.</p>
+      <note type="note">
+         <p>The latest incoming message appears at the top of the screen. Recent messages can be
+            viewed using the buttons in the upper left corner, which are identified on the following
+            page. The messages and alarms are explained in detail in SBS-OP-003 Alarm Message
+            System.</p>
+      </note>
+      <p>
+         <fig id="fig_d55_5xf_vcc">
+            <title>Understanding the Overview Area on a Typical Screen</title>
+            <image href="media/image2.jpg" placement="break" id="image_e55_5xf_vcc" align="center"/>
+         </fig>
+      </p>
+      <p>Four key operations have tabs in the Overview area at the top of the screen:  </p>
+      <ul>
+         <li>Silo Feeding</li>
+         <li>Batch System </li>
+         <li>Batch Cullet Weighing</li>
+         <li>Maintenance </li>
+      </ul>
+      <p>To the right of each operation tab is a 5-segment group display that shows current messages
+         for that operation. (Only three segments are currently used.) The messages include:</p>
+      <ul>
+         <li>A=Alarm violation of the alarm limit (white on red)</li>
+         <li>W=Warning violation of the warning limit (black on yellow)<image
+               href="media/image3.jpg"/>
+         </li>
+         <li>S = Process control message </li>
+         <li>F = fault, error</li>
+      </ul>
+   </conbody>
+</concept>

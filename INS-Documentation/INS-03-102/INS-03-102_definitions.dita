@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e598">
+   <title>Definitions</title>
+   <conbody>
+      <dl id="dl_jdr_ypb_bdc">
+         <dlentry>
+            <dt>Rough container type</dt>
+            <dd>Finish edges are rough due to a dirty finish or blurred due to curvature of the
+               crown finish.</dd>
+         </dlentry>
+      </dl>
+      <dl id="dl_n1k_1qb_bdc">
+         <dlentry>
+            <dt>No Step container type</dt>
+            <dd>Improve Wire Edge or Overpress Finish detection on containers with no or very slight
+               step downs. Only use this type after plant evaluation of tradeoffs against</dd>
+         </dlentry>
+      </dl>
+   </conbody>
+</concept>

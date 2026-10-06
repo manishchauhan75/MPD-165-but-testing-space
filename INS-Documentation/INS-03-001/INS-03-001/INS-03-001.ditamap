@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="INS-03-001" xml:lang="en-us">
+   <title>Finish Setup - O-I – FTA</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2019-10-21"/>
+      </critdates>
+   </topicmeta>
+   <topicref href="INS-03-001_finish_setup_-_o-i_%E2%80%93_fta.dita">
+      <topicref href="INS-03-001_purpose_and_application.dita"/>
+      <topicref href="INS-03-001_safety.dita"/>
+      <topicref href="INS-03-001_instructions.dita"/>
+      <topicref href="INS-03-001_required_training.dita"/>
+      <topicref href="INS-03-001_equipment.dita"/>
+      <topicref href="INS-03-001_definitions.dita"/>
+      <topicref href="INS-03-001_references.dita"/>
+      <topicref href="INS-03-001_approval.dita"/>
+      <topicref href="INS-03-001_revision_history.dita"/>
+   </topicref>
+</map>

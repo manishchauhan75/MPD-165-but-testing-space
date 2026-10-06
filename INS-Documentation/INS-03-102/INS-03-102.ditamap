@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="INS-03-102" xml:lang="en-us">
+   <title>Finish Setup - Tiama - FTA with CALIA3 on MX4</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2021-10-12"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content"
+             href="INS-03-102_finish_setup_-_tiama_-_fta_with_calia3_on_mx4.dita">
+      <topicmeta>
+         <othermeta content="INS-03-102" name="DocumentNumber"/>
+         <othermeta content="2021-10-12" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="INS-03-102_purpose_and_application.dita"/>
+      <topicref href="INS-03-102_safety.dita"/>
+      <topicref href="INS-03-102_instructions.dita"/>
+      <topicref href="INS-03-102_required_training.dita"/>
+      <topicref href="INS-03-102_equipment.dita"/>
+      <topicref href="INS-03-102_definitions.dita"/>
+      <topicref href="INS-03-102_references.dita"/>
+      <topicref href="INS-03-102_approval.dita"/>
+      <topicref href="INS-03-102_revision_history.dita"/>
+   </topicref>
+</map>

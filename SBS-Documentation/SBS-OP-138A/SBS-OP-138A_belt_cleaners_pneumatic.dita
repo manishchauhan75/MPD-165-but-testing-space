@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e108">
+   <title>Belt Cleaners (Pneumatic)</title>
+   <conbody>
+      <p>In the normal version, the belt conveyor is equipped with belt cleaners that are adjusted and readjusted mechanically. In the case of the reversible belt conveyor, the belt cleaner is optionally available as a pneumatically adjustable unit. In this variant of the belt conveyor, a scraper is mounted at the drive and tensioning pulleys. Depending on the direction of transport, the scraper opposite the transport direction is lowered.</p>
+      <p>
+         <fig>
+            <image href="../media/image5.jpg" placement="break" align="center"/>
+         </fig>
+      </p>
+   </conbody>
+</concept>

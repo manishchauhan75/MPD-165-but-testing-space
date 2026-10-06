@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e131">
+   <title>Test and Validation</title>
+   <conbody><ul>
+         <li>After the job change, put the machine in automatic mode and test the machine at the speed required.</li>
+         <li>Test the sample and the rejection duration/blowing flow.</li>
+         <li>The goal is to minimize the number of fine tunings by making a good adjustment in one shot: this timing is important for experience feedback and future job change.</li>
+         <li>During startup: check the MNR reading and the articles rejected to validate the job change.</li>
+      </ul></conbody>
+</concept>

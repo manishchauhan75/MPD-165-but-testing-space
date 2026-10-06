@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e66">
+   <title>New Tooling Installation and Bottom Setup</title>
+   <taskbody><steps>
+         <step><cmd>Jobfile creation and loading on software.</cmd></step>
+         <step><cmd>Software Cams adjustment.  Aim: being able to run some bottles through and check the infeed, outfeed and handling before having the frame down (it is easier to correct the setup in this configuration if necessary).</cmd></step>
+         <step><cmd>Install the new sliding plates.</cmd></step>
+         <step><cmd>Install the bottom outfeed guide.</cmd></step>
+         <step><cmd>Install the bottom starwheel.</cmd></step>
+         <step><cmd>Install the internal arm.</cmd></step>
+         <step><cmd>Install the top outfeed guide.</cmd></step>
+         <step><cmd>Install the top starwheel.</cmd></step>
+         <step><cmd>Using one good article: starwheel fine setup + outfeed guides positioning using this article in station 7.</cmd></step>
+         <step><cmd>Put the Outfeed system in its theoretical position using the article.</cmd></step>
+         <step><cmd>Set the article guiding + PA. with the article inside the machine (when the Emergency stop button is pressed, the starwheel is free and allows you to move the article manually inside the machine to perform the guiding adjustment).</cmd></step>
+         <step><cmd>Set the spinner position (optionally spinner belt modification to non-round + software setup).</cmd></step>
+         <step><cmd>Set the Thickness probes position and OVAL.</cmd></step>
+         <step><cmd>Install the new screws.</cmd></step>
+         <step><cmd>Remove the Emergency stop to make an initialization of the Axis and stop the machine on its low point position.  (It is possible to run in manual mode beforehand to remove the article previously used to make the outfeed setting.)</cmd></step>
+         <step><cmd>Adjust the Infeed.</cmd></step>
+         <step><cmd>Test the machine infeed synchro.  When ok: put the thickness article sample on MNR station to adjust it, then the Thickness probes.</cmd></step>
+         <step><cmd>Same with OVAL sample.</cmd></step>
+         <step><cmd>In case of ATLAS: set it on software and perform the positioning.</cmd></step>
+         <step><cmd>Install the PLUG gauges.</cmd></step>
+         <step><cmd>Move the frame down with care.</cmd></step>
+      </steps></taskbody>
+</task>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e328">
+   <title>Faceplates</title>
+   <conbody>
+      <p>If the cursor hovers over a piece of equipment on a screen and a “lightning bolt” appears,
+         click on the item to open a faceplate (popup window] that provides information about that
+         specific device. The faceplates vary depending on the type of equipment. For example, the
+         faceplates for a screw drive or dosing feeder are shown below, and include the ability to
+         change operating modes, change parameter values, and view alarms for that particular
+         device.</p>
+      <fig>
+         <image href="media/image41.jpg" placement="break" id="image_jjd_rcg_vcc" align="center"/>
+      </fig>
+   </conbody>
+</concept>

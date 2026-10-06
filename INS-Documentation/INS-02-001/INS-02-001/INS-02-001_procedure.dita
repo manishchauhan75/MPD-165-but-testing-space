@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e39">
+   <title>Procedure</title>
+   <taskbody><steps>
+         <step><cmd>Plant leadership shall be accountable and responsible for providing the safety devices, equipment and prerequisite programs described in this document.</cmd></step>
+         <step outputclass="NN"><cmd>PPE: All personnel working on inspection equipment shall wear Personal Protective Equipment (PPE), as specified in MSDR INS-07-001 Inspection Safety Equipment.</cmd>
+            <substeps id="substeps_zwp_csb_rcc">
+               <substep>
+                  <cmd>Cut resistant gloves shall be carried at all times and worn when handling
+                     glass.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>Local safety requirements through contractual agreements or local legislation shall be followed. Plant shall address how contractors and visitors will be informed of, and comply with, the plant’s safety requirements.</cmd></step>
+         <step outputclass="NN"><cmd>All personnel working on inspection equipment shall have a safety training plan and fully documented training records in accordance with O-I regional, national, and local regulations – as well as others defined by Global Environmental Health &amp; Safety (EH&amp;S).  This includes, but is not limited to, the following:</cmd>
+            <substeps id="substeps_u55_fsb_rcc">
+               <substep>
+                  <cmd>Personal Protective Equipment (PPE).</cmd>
+               </substep>
+               <substep>
+                  <cmd>Lockout Tagout, including adherence to the following machine specific
+                     profiles:</cmd>
+                  <info>
+                     <ol id="ol_mqx_hsb_rcc">
+                        <li outputclass="NN">INS-02-001-F001Lockout Tagout Tryout Machine Profile -
+                           FP</li>
+                        <li outputclass="NN">INS-02-001-F002Lockout Tagout Tryout Machine Profile -
+                           FPX</li>
+                        <li outputclass="NN">INS-02-001-F003Lockout Tagout Tryout Machine Profile -
+                           FPX2</li>
+                        <li outputclass="NN">INS-02-001-F004Lockout Tagout Tryout Machine Profile -
+                           ICK-CE</li>
+                        <li outputclass="NN">INS-02-001-F005Lockout Tagout Tryout Machine Profile -
+                           ICK-non-CE</li>
+                     </ol>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Job-specific training.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Mobile equipment as required by specific job duties, such as forklifts or
+                     scissor lifts.</cmd>
+               </substep>
+            </substeps></step>
+         <step outputclass="NN"><cmd>Safety warnings on machines shall be in the local language or a universally accepted safety symbol.</cmd>
+            <substeps id="substeps_b5x_msb_rcc">
+               <substep>
+                  <cmd>English warnings should also be displayed on machines.</cmd>
+               </substep>
+            </substeps></step>
+         <step outputclass="NN"><cmd>A glass breaking device shall be available at each production line.</cmd>
+            <substeps id="substeps_qfs_c2n_vcc">
+               <substep>
+                  <cmd>All containers within the machine and the immediate area must be rejected
+                     when a container needs to be broken to protect from contamination.</cmd>
+               </substep>
+               <substep>
+                  <cmd>A carbide tipped glass breaking device is a recommended option.</cmd>
+               </substep>
+            </substeps></step>
+         <step outputclass="NN">
+            <cmd>Safety upgrades identified in MSDR INS-07-001 Inspection Safety Equipment shall be
+               performed.</cmd>
+         </step>
+         <step><cmd>Cables shall be properly installed and managed to prevent trips and electrical hazards.</cmd></step>
+         <step outputclass="NN"><cmd>Safety programs shall be implemented and practiced for all Inspection Personnel to include, but not be limited to, the following:</cmd>
+            <substeps id="substeps_aq5_22n_vcc">
+               <substep>
+                  <cmd>A qualified first aid responder and a first aid kit must be located on site
+                     and available at all times.</cmd>
+               </substep>
+               <substep>
+                  <cmd>The area and floor around the inspection machine is kept clean, orderly, and
+                     free of glass and oil. The floor should not be slippery.</cmd>
+               </substep>
+               <substep>
+                  <cmd>No loose clothing, long or dangling jewelry, or hair extending beyond the
+                     shoulder. Long hair shall be tucked under the helmet/cap, or covered in a
+                     bandana. </cmd>
+                  <info>
+                     <ol id="ol_ucw_j2n_vcc">
+                        <li>Hairnets may be worn in the inspection area according to plant
+                           requirements.</li>
+                     </ol>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Lighting in the inspection production area must be in working order, covered,
+                     protected, and clean.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Authorized personnel performing an elevated task must wear the proper fall
+                     protection equipment as required by local regulations.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Cold end housekeeping program is implemented.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Follow all local regulations for lifting tasks.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>Injuries, incidents, and near misses shall be reported in a timely manner according to the established plant procedure.</cmd></step>
+         <step>
+            <cmd>Personnel interacting with operational inspection equipment shall follow local
+               procedures for conducting sampling safely according to Procedure INS-02-040
+               Inspection Equipment Validation.</cmd>
+         </step>
+         <step outputclass="NN"><cmd>All machine enclosures, guarding and safety devices shall follow local regulations and be properly installed and functional for personal protection.</cmd>
+            <substeps id="substeps_kdg_n2n_vcc">
+               <substep>
+                  <cmd>Machine doors and electrical cabinets must remain closed and require a key or
+                     tool to prevent unauthorized access.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Guard all drives and infeed / outfeed conveyors to manufacturer’s design or
+                     better.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Machine guards must require a tool for removal or interlock to prevent
+                     unauthorized access.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Machine safety interlocks must be utilized unless following an approved
+                     safety interlock bypass defined within a work instruction.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Inspection Personnel must not remove, inhibit, or otherwise bypass any safety
+                     devices or guarding unless equipment is properly locked out and tagged out
+                     according to local regulations and O-I requirements. </cmd>
+               </substep>
+               <substep>
+                  <cmd>E-Stops for each machine must meet local requirements.</cmd>
+               </substep>
+            </substeps></step>
+      </steps></taskbody>
+</task>

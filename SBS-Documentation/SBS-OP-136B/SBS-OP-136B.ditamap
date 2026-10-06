@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="SBS-OP-136B" xml:lang="en-us">
+   <title>Overview of the Metering Conveyor Scale</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2024-01-30"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content" href="SBS-OP-136B_overview_of_the_metering_conveyor_scale.dita">
+      <topicmeta>
+         <othermeta content="SBS-OP-136B" name="DocumentNumber"/>
+         <othermeta content="2024-01-30" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="SBS-OP-136B_purposeapplication.dita"/>
+      <topicref href="SBS-OP-136B_ppe_required.dita"/>
+      <topicref href="SBS-OP-136B_safety_hazards.dita"/>
+      <topicref href="SBS-OP-136B_respirable_crystalline_silica.dita"/>
+      <topicref href="SBS-OP-136B_safety_controls.dita"/>
+      <topicref href="SBS-OP-136B_equipment_needed.dita"/>
+      <topicref href="SBS-OP-136B_comments.dita"/>
+      <topicref href="SBS-OP-136B_related_resources.dita"/>
+      <topicref href="SBS-OP-136B_safety_mechanisms_and_controls.dita"/>
+      <topicref href="SBS-OP-136B_starting_and_stopping_the_metering_conveyor_scale.dita"/>
+      <topicref href="SBS-OP-136B_approval.dita"/>
+      <topicref href="SBS-OP-136B_revision_history.dita"/>
+   </topicref>
+</map>

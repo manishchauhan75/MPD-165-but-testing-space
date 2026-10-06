@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="INS-06-011" xml:lang="en-us">
+   <title>MX4 Job Change</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2022-09-23"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content" href="INS-06-011_mx4_job_change.dita">
+      <topicmeta>
+         <othermeta content="INS-06-011" name="DocumentNumber"/>
+         <othermeta content="2022-09-23" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="INS-06-011_preparation.dita"/>
+      <topicref href="INS-06-011_previous_parts_removal.dita"/>
+      <topicref href="INS-06-011_new_tooling_installation_and_bottom_setup.dita"/>
+      <topicref href="INS-06-011_top_inspections_setup.dita"/>
+      <topicref href="INS-06-011_test_and_validation.dita"/>
+      <topicref href="INS-06-011_recommended_tools.dita"/>
+      <topicref href="INS-06-011_references.dita"/>
+      <topicref href="INS-06-011_approval.dita"/>
+      <topicref href="INS-06-011_revision_history.dita"/>
+   </topicref>
+</map>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="SBS-OP-136A" xml:lang="en-us">
+   <title>Overview of the Metering Conveyor Scale</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2024-01-30"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content" href="SBS-OP-136A_overview_of_the_metering_conveyor_scale.dita">
+      <topicmeta>
+         <othermeta content="SBS-OP-136A" name="DocumentNumber"/>
+         <othermeta content="2024-01-30" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="SBS-OP-136A_purposeapplication.dita"/>
+      <topicref href="SBS-OP-136A_ppe_required.dita"/>
+      <topicref href="SBS-OP-136A_safety_hazards.dita"/>
+      <topicref href="SBS-OP-136A_respirable_crystalline_silica.dita"/>
+      <topicref href="SBS-OP-136A_safety_controls.dita"/>
+      <topicref href="SBS-OP-136A_equipment_needed.dita"/>
+      <topicref href="SBS-OP-136A_comments.dita"/>
+      <topicref href="SBS-OP-136A_metering_conveyor_scale_components.dita">
+         <topicref href="SBS-OP-136A_drive_station.dita"/>
+         <topicref href="SBS-OP-136A_tensioning_station.dita"/>
+         <topicref href="SBS-OP-136A_rotary_survey.dita"/>
+         <topicref href="SBS-OP-136A_protective_housings_and_covers.dita"/>
+      </topicref>
+      <topicref href="SBS-OP-136A_operating_modes.dita"/>
+      <topicref href="SBS-OP-136A_approval.dita"/>
+      <topicref href="SBS-OP-136A_revision_history.dita"/>
+   </topicref>
+</map>

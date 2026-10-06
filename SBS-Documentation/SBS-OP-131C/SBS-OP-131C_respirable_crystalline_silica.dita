@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e27">
+   <title>Respirable Crystalline Silica</title>
+   <conbody>
+      <p>
+         <b>Crystalline silica has been classified as a human lung carcinogen.</b> Breathing
+         crystalline silica dust can cause silicosis, which in severe cases can be disabling, or
+         even fatal.</p>
+      <p>
+         <fig id="fig_zfw_n52_vcc">
+            <image href="media/image1.jpg" placement="break" id="image_dtw_452_vcc" align="center"/>
+         </fig>
+      </p>
+   </conbody>
+</concept>

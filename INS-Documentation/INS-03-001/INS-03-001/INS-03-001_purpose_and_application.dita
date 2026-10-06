@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e8">
+   <title>Purpose and Application</title>
+   <conbody>
+    <section id="section_dmt_d15_tcc">
+      <title>Purpose</title>
+      <p>To define a work instruction for proper setup of the Finish Top Analysis inspection device
+        on FP, FPX or FPX2 Machines.<note id="note_kjw_215_tcc">
+          <p><i>Instructions are based on FPX2 using IPS version 10.0. Your software screens and
+              buttons may vary. This work instruction is compatible with IPS versions 7.1 or
+              higher.</i></p>
+        </note></p>
+    </section>
+    <section id="section_ml2_g15_tcc">
+      <title>Application</title>
+      <p>This work instruction applies to all O-I manufacturing facilities.</p>
+    </section>
+   </conbody>
+</concept>
